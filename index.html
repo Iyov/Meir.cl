@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meir Consultores de Energía | Consultoría Energética, Desarrollo Web y Marketing Digital</title>
+    <meta name="description" content="Meir Consultores de Energía ofrece servicios de consultoría energética, desarrollo de software, creación de páginas web y marketing digital en Chile." />
+    <meta name="keywords" content="consultoría energética, desarrollo software, páginas web, marketing digital, Chile, Francisco Barrientos" />
+    <meta name="author" content="Francisco Barrientos" />
+    
+    <!-- Fuentes -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" />
+    
+    <!-- Estilos -->
+    <link rel="icon" href="img/favicon.png" type="image/x-icon" />
+    <link rel="stylesheet" href="css/font-awesome_6.4.0_all.min.css" type="text/css" />
+    <link rel="stylesheet" href="css/index.css" type="text/css" />
+</head>
+<body class="dark-mode">
+    <!-- Barra de progreso -->
+    <div class="progress-container">
+        <div class="progress-bar" id="progressBar"></div>
+    </div>
+
+    <!-- Botón volver arriba -->
+    <div class="back-to-top" id="backToTop">
+        <i class="fas fa-chevron-up"></i>
+    </div>
+
+    <!-- Header -->
+    <header>
+        <nav class="nav-container">
+            <a href="#home" class="logo">
+                <i class="fas fa-bolt"></i>
+                <span>Meir</span>
+            </a>
+
+            <ul class="nav-menu" id="navMenu">
+                <li class="nav-item">
+                    <a href="#about" class="nav-link">Quiénes Somos</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#testimonials" class="nav-link">Testimonios</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#geek" class="nav-link">Dato Geek</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#faq" class="nav-link">Preguntas Frecuentes</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#contact" class="nav-link">Contacto</a>
+                </li>
+            </ul>
+
+            <div class="nav-controls">
+                <button class="theme-toggle" id="themeToggle" aria-label="Cambiar tema">
+                    <i class="fas fa-moon"></i>
+                </button>
+                
+                <div class="language-container">
+                    <button class="language-toggle" id="languageToggle" aria-label="Cambiar idioma">
+                        <i class="fas fa-globe"></i>
+                    </button>
+                    <div class="language-menu" id="languageMenu">
+                        <div class="language-option" data-lang="es">
+                            <span class="language-flag">🇪🇸</span> Español
+                        </div>
+                        <div class="language-option" data-lang="en">
+                            <span class="language-flag">🇺🇸</span> English
+                        </div>
+                    </div>
+                </div>
+
+                <button class="hamburger" id="hamburger">
+                    <i class="fas fa-bars"></i>
+                </button>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Sección Hero/Inicio -->
+    <section id="home" class="hero">
+        <div class="section-container">
+            <div class="hero-content">
+                <h1 class="hero-title" data-es="Meir Consultores de Energía y Desarrollo Tecnológico" data-en="Meir Energy and Technological Development Consultants">Meir Consultores de Energía y Desarrollo Tecnológico</h1>
+                <h2 class="hero-subtitle" data-es="Soluciones innovadoras para tu empresa" data-en="Innovative solutions for your business">Soluciones innovadoras para tu empresa</h2>
+                <p class="hero-description" data-es="En Meir Consultores de Energía ofrecemos servicios especializados en consultoría energética, desarrollo de software a medida, creación de páginas web y estrategias de marketing digital para impulsar el crecimiento de tu negocio." data-en="At Meir Energy Consultants we offer specialized services in energy consulting, custom software development, website creation and digital marketing strategies to boost your business growth.">En Meir Consultores de Energía ofrecemos servicios especializados en consultoría energética, desarrollo de software a medida, creación de páginas web y estrategias de marketing digital para impulsar el crecimiento de tu negocio.</p>
+                <a href="#contact" class="cta-button" data-es="Contáctanos" data-en="Contact Us">Contáctanos</a>
+            </div>
+            <div class="hero-image">
+                <i class="fas fa-lightbulb"></i>
+            </div>
+        </div>
+    </section>
+
+    <!-- Sección Quiénes Somos -->
+    <section id="about" class="about">
+        <div class="section-container">
+            <h2 class="section-title" data-es="Quiénes Somos" data-en="About Us">Quiénes Somos</h2>
+            <div class="about-content">
+                <div class="about-text">
+                    <p data-es="Meir Consultores de Energía es una empresa especializada en ofrecer soluciones integrales en el ámbito energético y tecnológico. Nuestro equipo, liderado por Francisco Barrientos, Ingeniero de Software y Datos, combina experiencia técnica con conocimiento del sector energético para ofrecer servicios de alta calidad." data-en="Meir Energy Consultants is a company specialized in offering comprehensive solutions in the energy and technology fields. Our team, led by Francisco Barrientos, Software and Data Engineer, combines technical expertise with knowledge of the energy sector to offer high-quality services.">Meir Consultores de Energía es una empresa especializada en ofrecer soluciones integrales en el ámbito energético y tecnológico. Nuestro equipo, liderado por Francisco Barrientos, Ingeniero de Software y Datos, combina experiencia técnica con conocimiento del sector energético para ofrecer servicios de alta calidad.</p>
+                    <p data-es="Nos dedicamos a ayudar a las empresas a optimizar sus procesos energéticos, desarrollar software a medida, crear presencia digital efectiva y mejorar su estrategia de marketing digital. Nuestro enfoque se basa en la innovación, la eficiencia y la sostenibilidad." data-en="We are dedicated to helping companies optimize their energy processes, develop custom software, create effective digital presence and improve their digital marketing strategy. Our approach is based on innovation, efficiency and sustainability.">Nos dedicamos a ayudar a las empresas a optimizar sus procesos energéticos, desarrollar software a medida, crear presencia digital efectiva y mejorar su estrategia de marketing digital. Nuestro enfoque se basa en la innovación, la eficiencia y la sostenibilidad.</p>
+                    <p data-es="Con sede en Chile, trabajamos con clientes de diversos sectores, brindando asesoramiento personalizado y soluciones adaptadas a sus necesidades específicas. Nuestro compromiso es contribuir al éxito de nuestros clientes mediante la implementación de tecnologías avanzadas y prácticas energéticas eficientes." data-en="Based in Chile, we work with clients from various sectors, providing personalized advice and solutions tailored to their specific needs. Our commitment is to contribute to the success of our clients through the implementation of advanced technologies and efficient energy practices.">Con sede en Chile, trabajamos con clientes de diversos sectores, brindando asesoramiento personalizado y soluciones adaptadas a sus necesidades específicas. Nuestro compromiso es contribuir al éxito de nuestros clientes mediante la implementación de tecnologías avanzadas y prácticas energéticas eficientes.</p>
+                </div>
+                <div class="about-image">
+                    <img src="img/Meir_Logo_SF.png" alt="Meir Consultores Logo" /><!--<i class="fas fa-users"></i>-->
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Sección Testimonios -->
+    <section id="testimonials" class="testimonials">
+        <div class="section-container">
+            <h2 class="section-title" data-es="Testimonios" data-en="Testimonials">Testimonios</h2>
+            <div class="testimonials-grid">
+                <div class="testimonial-card">
+                    <div class="testimonial-content">
+                        <p data-es="Meir Consultores transformó completamente nuestra estrategia energética. Gracias a su asesoramiento, logramos reducir nuestros costos operativos en un 25%. ¡Altamente recomendados!" data-en="Meir Consultants completely transformed our energy strategy. Thanks to their advice, we managed to reduce our operating costs by 25%. Highly recommended!">Meir Consultores transformó completamente nuestra estrategia energética. Gracias a su asesoramiento, logramos reducir nuestros costos operativos en un 25%. ¡Altamente recomendados!</p>
+                    </div>
+                    <div class="testimonial-author">
+                        <div class="author-avatar">
+                            <i class="fas fa-user"></i>
+                        </div>
+                        <div class="author-info">
+                            <h4>María González</h4>
+                            <p data-es="Directora de Operaciones, Empresa SolarChile" data-en="Operations Director, SolarChile Company">Directora de Operaciones, Empresa SolarChile</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial-card">
+                    <div class="testimonial-content">
+                        <p data-es="El desarrollo de software que realizaron para nuestra empresa ha optimizado nuestros procesos internos de manera significativa. Francisco y su equipo son profesionales excepcionales." data-en="The software development they carried out for our company has significantly optimized our internal processes. Francisco and his team are exceptional professionals.">El desarrollo de software que realizaron para nuestra empresa ha optimizado nuestros procesos internos de manera significativa. Francisco y su equipo son profesionales excepcionales.</p>
+                    </div>
+                    <div class="testimonial-author">
+                        <div class="author-avatar">
+                            <i class="fas fa-user"></i>
+                        </div>
+                        <div class="author-info">
+                            <h4>Carlos Rodríguez</h4>
+                            <p data-es="Gerente de TI, Energía Verde S.A." data-en="IT Manager, Green Energy Inc.">Gerente de TI, Energía Verde S.A.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial-card">
+                    <div class="testimonial-content">
+                        <p data-es="La página web que crearon para nosotros ha aumentado nuestra visibilidad online y generado más leads cualificados. Excelente trabajo en diseño y funcionalidad." data-en="The website they created for us has increased our online visibility and generated more qualified leads. Excellent work on design and functionality.">La página web que crearon para nosotros ha aumentado nuestra visibilidad online y generado más leads cualificados. Excelente trabajo en diseño y funcionalidad.</p>
+                    </div>
+                    <div class="testimonial-author">
+                        <div class="author-avatar">
+                            <i class="fas fa-user"></i>
+                        </div>
+                        <div class="author-info">
+                            <h4>Ana Martínez</h4>
+                            <p data-es="Directora de Marketing, EcoSolutions" data-en="Marketing Director, EcoSolutions">Directora de Marketing, EcoSolutions</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Sección Dato Geek -->
+    <section id="geek" class="geek">
+        <div class="section-container">
+            <h2 class="section-title" data-es="Dato Geek del Día" data-en="Geek Fact of the Day">Dato Geek del Día</h2>
+            <div class="geek-fact">
+                <div class="fact-icon">
+                    <i class="fas fa-laptop-code"></i>
+                </div>
+                <div class="fact-date" id="factDate"></div>
+                <div class="fact-text" id="factText"></div>
+                <div class="fact-source" id="factSource"></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Sección Preguntas Frecuentes -->
+    <section id="faq" class="faq">
+        <div class="section-container">
+            <h2 class="section-title" data-es="Preguntas Frecuentes" data-en="Frequently Asked Questions">Preguntas Frecuentes</h2>
+            <div class="faq-container">
+                <div class="faq-item">
+                    <div class="faq-question">
+                        <span data-es="¿Qué servicios ofrece Meir Consultores de Energía?" data-en="What services does Meir Energy Consultants offer?">¿Qué servicios ofrece Meir Consultores de Energía?</span>
+                        <i class="fas fa-chevron-down faq-icon"></i>
+                    </div>
+                    <div class="faq-answer">
+                        <p data-es="Ofrecemos consultoría energética para optimizar el consumo y costos energéticos, desarrollo de software a medida, creación de páginas web profesionales y estrategias de marketing digital para aumentar la visibilidad de tu negocio." data-en="We offer energy consulting to optimize energy consumption and costs, custom software development, creation of professional websites and digital marketing strategies to increase your business visibility.">Ofrecemos consultoría energética para optimizar el consumo y costos energéticos, desarrollo de software a medida, creación de páginas web profesionales y estrategias de marketing digital para aumentar la visibilidad de tu negocio.</p>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question">
+                        <span data-es="¿En qué áreas de Chile prestan servicios?" data-en="In which areas of Chile do you provide services?">¿En qué áreas de Chile prestan servicios?</span>
+                        <i class="fas fa-chevron-down faq-icon"></i>
+                    </div>
+                    <div class="faq-answer">
+                        <p data-es="Trabajamos con clientes en todo Chile, con especial presencia en Santiago, Valparaíso, Concepción y Antofagasta. Nuestros servicios digitales están disponibles para cualquier ubicación." data-en="We work with clients throughout Chile, with a special presence in Santiago, Valparaíso, Concepción and Antofagasta. Our digital services are available for any location.">Trabajamos con clientes en todo Chile, con especial presencia en Santiago, Valparaíso, Concepción y Antofagasta. Nuestros servicios digitales están disponibles para cualquier ubicación.</p>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question">
+                        <span data-es="¿Cómo puedo solicitar un presupuesto?" data-en="How can I request a quote?">¿Cómo puedo solicitar un presupuesto?</span>
+                        <i class="fas fa-chevron-down faq-icon"></i>
+                    </div>
+                    <div class="faq-answer">
+                        <p data-es="Puedes contactarnos a través de nuestro formulario de contacto, por correo electrónico o por teléfono. Analizaremos tus necesidades y te enviaremos una propuesta personalizada sin compromiso." data-en="You can contact us through our contact form, by email or by phone. We will analyze your needs and send you a personalized proposal without obligation.">Puedes contactarnos a través de nuestro formulario de contacto, por correo electrónico o por teléfono. Analizaremos tus necesidades y te enviaremos una propuesta personalizada sin compromiso.</p>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question">
+                        <span data-es="¿Qué experiencia tienen en el sector energético?" data-en="What experience do you have in the energy sector?">¿Qué experiencia tienen en el sector energético?</span>
+                        <i class="fas fa-chevron-down faq-icon"></i>
+                    </div>
+                    <div class="faq-answer">
+                        <p data-es="Nuestro equipo cuenta con más de 5 años de experiencia en consultoría energética, trabajando con empresas de diversos tamaños y sectores. Hemos implementado soluciones que han generado ahorros significativos para nuestros clientes." data-en="Our team has more than 5 years of experience in energy consulting, working with companies of various sizes and sectors. We have implemented solutions that have generated significant savings for our clients.">Nuestro equipo cuenta con más de 5 años de experiencia en consultoría energética, trabajando con empresas de diversos tamaños y sectores. Hemos implementado soluciones que han generado ahorros significativos para nuestros clientes.</p>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question">
+                        <span data-es="¿Ofrecen mantenimiento para los sitios web desarrollados?" data-en="Do you offer maintenance for developed websites?">¿Ofrecen mantenimiento para los sitios web desarrollados?</span>
+                        <i class="fas fa-chevron-down faq-icon"></i>
+                    </div>
+                    <div class="faq-answer">
+                        <p data-es="Sí, ofrecemos planes de mantenimiento que incluyen actualizaciones de seguridad, backup regular, soporte técnico y mejoras continuas para garantizar el óptimo funcionamiento de tu sitio web." data-en="Yes, we offer maintenance plans that include security updates, regular backups, technical support and continuous improvements to ensure the optimal functioning of your website.">Sí, ofrecemos planes de mantenimiento que incluyen actualizaciones de seguridad, backup regular, soporte técnico y mejoras continuas para garantizar el óptimo funcionamiento de tu sitio web.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Sección Contacto -->
+    <section id="contact" class="contact">
+        <div class="section-container">
+            <h2 class="section-title" data-es="Contacto" data-en="Contact">Contacto</h2>
+            <div class="contact-grid">
+                <div class="contact-card">
+                    <div class="contact-icon">
+                        <i class="fas fa-envelope"></i>
+                    </div>
+                    <h3 data-es="Correo Electrónico" data-en="Email">Correo Electrónico</h3>
+                    <p data-es="Contáctanos por email para consultas generales" data-en="Contact us by email for general inquiries">Contáctanos por email para consultas generales</p>
+                    <a href="mailto:contacto@meir.cl" class="contact-link">contacto@meir.cl</a>
+                </div>
+                <div class="contact-card">
+                    <div class="contact-icon">
+                        <i class="fas fa-phone"></i>
+                    </div>
+                    <h3 data-es="Teléfono" data-en="Phone">Teléfono</h3>
+                    <p data-es="Llámanos para una consulta personalizada" data-en="Call us for a personalized consultation">Llámanos para una consulta personalizada</p>
+                    <a href="tel:+56912345678" class="contact-link">+56 9 1234 5678</a>
+                </div>
+                <div class="contact-card">
+                    <div class="contact-icon">
+                        <i class="fab fa-linkedin"></i>
+                    </div>
+                    <h3>LinkedIn</h3>
+                    <p data-es="Conecta con nosotros profesionalmente" data-en="Connect with us professionally">Conecta con nosotros profesionalmente</p>
+                    <a href="https://www.linkedin.com/in/francisco-barrientos-c/" target="_blank" class="contact-link">Francisco Barrientos</a>
+                </div>
+                <div class="contact-card">
+                    <div class="contact-icon">
+                        <i class="fab fa-github"></i>
+                    </div>
+                    <h3>GitHub</h3>
+                    <p data-es="Revisa nuestros proyectos de código abierto" data-en="Check out our open source projects">Revisa nuestros proyectos de código abierto</p>
+                    <a href="https://github.com/Iyov/" target="_blank" class="contact-link">Iyov</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3 data-es="Meir Consultores" data-en="Meir Consultants">Meir Consultores</h3>
+                <p data-es="Especialistas en consultoría energética, desarrollo de software y marketing digital." data-en="Specialists in energy consulting, software development and digital marketing.">Especialistas en consultoría energética, desarrollo de software y marketing digital.</p>
+                <div class="social-links">
+                    <a href="https://www.linkedin.com/in/francisco-barrientos-c/" class="social-link" target="_blank" aria-label="LinkedIn">
+                        <i class="fab fa-linkedin-in"></i>
+                    </a>
+                    <a href="https://github.com/Iyov/" class="social-link" target="_blank" aria-label="GitHub">
+                        <i class="fab fa-github"></i>
+                    </a>
+                    <a href="https://franciscobarrientos.cl/" class="social-link" target="_blank" aria-label="Sitio Web Personal">
+                        <i class="fas fa-globe"></i>
+                    </a>
+                </div>
+            </div>
+            <div class="footer-section">
+                <h3 data-es="Enlaces Rápidos" data-en="Quick Links">Enlaces Rápidos</h3>
+                <ul class="footer-links">
+                    <li><a href="#home" data-es="Inicio" data-en="Home">Inicio</a></li>
+                    <li><a href="#about" data-es="Quiénes Somos" data-en="About Us">Quiénes Somos</a></li>
+                    <li><a href="#testimonials" data-es="Testimonios" data-en="Testimonials">Testimonios</a></li>
+                    <li><a href="#geek" data-es="Dato Geek" data-en="Geek Fact">Dato Geek</a></li>
+                    <li><a href="#faq" data-es="Preguntas Frecuentes" data-en="FAQ">Preguntas Frecuentes</a></li>
+                    <li><a href="#contact" data-es="Contacto" data-en="Contact">Contacto</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h3 data-es="Servicios" data-en="Services">Servicios</h3>
+                <ul class="footer-links">
+                    <li><a href="#" data-es="Consultoría Energética" data-en="Energy Consulting">Consultoría Energética</a></li>
+                    <li><a href="#" data-es="Desarrollo de Software" data-en="Software Development">Desarrollo de Software</a></li>
+                    <li><a href="#" data-es="Creación de Páginas Web" data-en="Website Creation">Creación de Páginas Web</a></li>
+                    <li><a href="#" data-es="Marketing Digital" data-en="Digital Marketing">Marketing Digital</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 Meir Consultores de Energía. <span data-es="Todos los derechos reservados." data-en="All rights reserved.">Todos los derechos reservados.</span></p>
+        </div>
+    </footer>
+
+    <!-- Datos estructurados para SEO -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "ProfessionalService",
+        "name": "Meir Consultores de Energía",
+        "description": "Consultoría energética, desarrollo de software, creación de páginas web y marketing digital en Chile",
+        "url": "https://meir.cl/",
+        "telephone": "+56912345678",
+        "email": "contacto@meir.cl",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CL",
+            "addressRegion": "Región Metropolitana",
+            "addressLocality": "Santiago"
+        },
+        "areaServed": "Chile",
+        "serviceType": "Consultoría energética, Desarrollo de software, Marketing digital",
+        "founder": {
+            "@type": "Person",
+            "name": "Francisco Barrientos",
+            "jobTitle": "Ingeniero de Software y Datos",
+            "url": "https://franciscobarrientos.cl/",
+            "sameAs": [
+                "https://www.linkedin.com/in/francisco-barrientos-c/",
+                "https://github.com/Iyov/"
+            ]
+        },
+        "sameAs": [
+            "https://www.linkedin.com/in/francisco-barrientos-c/",
+            "https://github.com/Iyov/",
+            "https://franciscobarrientos.cl/"
+        ]
+    }
+    </script>
+
+    <!-- Scripts -->
+    <script src="js/index.js"></script>
+</body>
+</html>

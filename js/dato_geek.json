@@ -1,0 +1,94 @@
+{
+  "es": {
+    "01-01": {
+      "fact": "El primer bug informático fue una polilla real encontrada en la computadora Harvard Mark II en 1947.",
+      "source": "Historia de la informática"
+    },
+    "01-02": {
+      "fact": "El término 'Wi-Fi' no significa nada. Es solo un nombre comercial creado por una empresa de marketing.",
+      "source": "Curiosidades tecnológicas"
+    },
+    "01-03": {
+      "fact": "El primer videojuego de la historia se llamaba 'Tennis for Two' y fue creado en 1958.",
+      "source": "Historia de los videojuegos"
+    },
+    "01-04": {
+      "fact": "El 90% de todos los datos del mundo se han generado en los últimos dos años.",
+      "source": "Estadísticas de datos"
+    },
+    "01-05": {
+      "fact": "El primer ordenador personal, el Altair 8800, se vendía en kit y no tenía teclado ni pantalla.",
+      "source": "Historia de la computación"
+    },
+    "01-06": {
+      "fact": "El código QR (Quick Response) fue creado en 1994 por una subsidiaria de Toyota para rastrear vehículos.",
+      "source": "Tecnología de códigos"
+    },
+    "01-07": {
+      "fact": "El primer dominio web registrado fue symbolics.com el 15 de marzo de 1985.",
+      "source": "Historia de Internet"
+    },
+    "01-08": {
+      "fact": "El término 'spam' para correo no deseado proviene de un sketch de Monty Python.",
+      "source": "Curiosidades de Internet"
+    },
+    "01-09": {
+      "fact": "El primer mensaje de texto SMS fue enviado en 1992 y decía 'Feliz Navidad'.",
+      "source": "Historia de las telecomunicaciones"
+    },
+    "01-10": {
+      "fact": "El 80% de las fotografías tomadas en la historia de la humanidad fueron capturadas en los últimos 5 años.",
+      "source": "Estadísticas de fotografía digital"
+    },
+    "12-31": {
+      "fact": "El primer mensaje enviado a través de ARPANET, predecesor de Internet, fue 'LO' en 1969. Se intentaba enviar 'LOGIN' pero el sistema se cayó.",
+      "source": "Historia de Internet"
+    }
+  },
+  "en": {
+    "01-01": {
+      "fact": "The first computer bug was a real moth found in the Harvard Mark II computer in 1947.",
+      "source": "Computer history"
+    },
+    "01-02": {
+      "fact": "The term 'Wi-Fi' doesn't mean anything. It's just a brand name created by a marketing company.",
+      "source": "Tech curiosities"
+    },
+    "01-03": {
+      "fact": "The first video game in history was called 'Tennis for Two' and was created in 1958.",
+      "source": "Video game history"
+    },
+    "01-04": {
+      "fact": "90% of all the world's data has been generated in the last two years.",
+      "source": "Data statistics"
+    },
+    "01-05": {
+      "fact": "The first personal computer, the Altair 8800, was sold as a kit and had no keyboard or screen.",
+      "source": "Computing history"
+    },
+    "01-06": {
+      "fact": "The QR code (Quick Response) was created in 1994 by a Toyota subsidiary to track vehicles.",
+      "source": "Code technology"
+    },
+    "01-07": {
+      "fact": "The first registered web domain was symbolics.com on March 15, 1985.",
+      "source": "Internet history"
+    },
+    "01-08": {
+      "fact": "The term 'spam' for unwanted email comes from a Monty Python sketch.",
+      "source": "Internet curiosities"
+    },
+    "01-09": {
+      "fact": "The first SMS text message was sent in 1992 and said 'Merry Christmas'.",
+      "source": "Telecommunications history"
+    },
+    "01-10": {
+      "fact": "80% of all photographs taken in human history were captured in the last 5 years.",
+      "source": "Digital photography statistics"
+    },
+    "12-31": {
+      "fact": "The first message sent over ARPANET, the predecessor of the Internet, was 'LO' in 1969. They were trying to send 'LOGIN' but the system crashed.",
+      "source": "Internet history"
+    }
+  }
+}
