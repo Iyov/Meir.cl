@@ -21,14 +21,15 @@
     <meta property="twitter:title" content="Meir Consultores de Energía | Consultoría Energética, Desarrollo Web y Marketing Digital" />
     <meta property="twitter:description" content="Meir Consultores de Energía ofrece servicios de consultoría energética, desarrollo de software, creación de páginas web y marketing digital en Chile." />
     <meta property="twitter:image" content="https://meir.cl/img/Meir_Logo.png" />
-    
-    <!-- Fuentes -->
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" />
+
+    <!-- Preload de fuentes para mejorar rendimiento -->
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" as="style" />
     
     <!-- Estilos -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" />
     <link rel="icon" href="img/favicon.png" type="image/x-icon" />
     <link rel="stylesheet" href="css/font-awesome_6.4.0_all.min.css" type="text/css" />
-    <link rel="stylesheet" href="css/index.css" type="text/css" />
+    <link rel="stylesheet" href="css/ds.css" type="text/css" />
 </head>
 <body class="dark-mode">
     <!-- Barra de progreso -->
@@ -51,19 +52,19 @@
 
             <ul class="nav-menu" id="navMenu">
                 <li class="nav-item">
-                    <a href="#about" class="nav-link">Quiénes Somos</a>
+                    <a href="#about" class="nav-link" data-es="Quiénes Somos" data-en="About Us">Quiénes Somos</a>
                 </li>
                 <li class="nav-item">
-                    <a href="#testimonials" class="nav-link">Testimonios</a>
+                    <a href="#testimonials" class="nav-link" data-es="Testimonios" data-en="Testimonials">Testimonios</a>
                 </li>
                 <li class="nav-item">
-                    <a href="#geek" class="nav-link">Dato Geek</a>
+                    <a href="#geek" class="nav-link" data-es="Dato Geek" data-en="Geek Fact">Dato Geek</a>
                 </li>
                 <li class="nav-item">
-                    <a href="#faq" class="nav-link">Preguntas Frecuentes</a>
+                    <a href="#faq" class="nav-link" data-es="Preguntas Frecuentes" data-en="FAQ">Preguntas Frecuentes</a>
                 </li>
                 <li class="nav-item">
-                    <a href="#contact" class="nav-link">Contacto</a>
+                    <a href="#contact" class="nav-link" data-es="Contacto" data-en="Contact">Contacto</a>
                 </li>
             </ul>
 
@@ -119,7 +120,7 @@
                     <p data-es="Con sede en Chile, trabajamos con clientes de diversos sectores, brindando asesoramiento personalizado y soluciones adaptadas a sus necesidades específicas. Nuestro compromiso es contribuir al éxito de nuestros clientes mediante la implementación de tecnologías avanzadas y prácticas energéticas eficientes." data-en="Based in Chile, we work with clients from various sectors, providing personalized advice and solutions tailored to their specific needs. Our commitment is to contribute to the success of our clients through the implementation of advanced technologies and efficient energy practices.">Con sede en Chile, trabajamos con clientes de diversos sectores, brindando asesoramiento personalizado y soluciones adaptadas a sus necesidades específicas. Nuestro compromiso es contribuir al éxito de nuestros clientes mediante la implementación de tecnologías avanzadas y prácticas energéticas eficientes.</p>
                 </div>
                 <div class="about-image">
-                    <i class="fas fa-users"></i>
+                    <img src="img/Meir_Logo_SF.png" alt="Logo Meir Consultores" loading="lazy">
                 </div>
             </div>
         </div>
@@ -256,7 +257,7 @@
                     </div>
                     <h3 data-es="Correo Electrónico" data-en="Email">Correo Electrónico</h3>
                     <p data-es="Contáctanos por email para consultas generales" data-en="Contact us by email for general inquiries">Contáctanos por email para consultas generales</p>
-                    <a href="mailto:francisco.barrientos@meir.cl" class="contact-link">francisco.barrientos@meir.cl</a>
+                    <a href="mailto:contacto@meir.cl" class="contact-link">contacto@meir.cl</a>
                 </div>
                 <div class="contact-card">
                     <div class="contact-icon">
@@ -264,7 +265,7 @@
                     </div>
                     <h3 data-es="Teléfono" data-en="Phone">Teléfono</h3>
                     <p data-es="Llámanos para una consulta personalizada" data-en="Call us for a personalized consultation">Llámanos para una consulta personalizada</p>
-                    <a href="tel:+56987629765" class="contact-link">+56 9 8762 9765</a>
+                    <a href="tel:+56912345678" class="contact-link">+56 9 1234 5678</a>
                 </div>
                 <div class="contact-card">
                     <div class="contact-icon">
@@ -280,7 +281,7 @@
                     </div>
                     <h3>GitHub</h3>
                     <p data-es="Revisa nuestros proyectos de código abierto" data-en="Check out our open source projects">Revisa nuestros proyectos de código abierto</p>
-                    <a href="https://github.com/Iyov/" target="_blank" class="contact-link">GitHub.com/Iyov</a>
+                    <a href="https://github.com/Iyov/" target="_blank" class="contact-link">Iyov</a>
                 </div>
             </div>
         </div>
@@ -307,7 +308,6 @@
             <div class="footer-section">
                 <h3 data-es="Enlaces Rápidos" data-en="Quick Links">Enlaces Rápidos</h3>
                 <ul class="footer-links">
-                    <li><a href="#home" data-es="Inicio" data-en="Home">Inicio</a></li>
                     <li><a href="#about" data-es="Quiénes Somos" data-en="About Us">Quiénes Somos</a></li>
                     <li><a href="#testimonials" data-es="Testimonios" data-en="Testimonials">Testimonios</a></li>
                     <li><a href="#geek" data-es="Dato Geek" data-en="Geek Fact">Dato Geek</a></li>
@@ -326,7 +326,7 @@
             </div>
         </div>
         <div class="footer-bottom">
-            <p>&copy; 2025 Meir Consultores de Energía. <span data-es="Todos los derechos reservados." data-en="All rights reserved.">Todos los derechos reservados.</span></p>
+            <p>&copy; 2023 Meir Consultores de Energía. <span data-es="Todos los derechos reservados." data-en="All rights reserved.">Todos los derechos reservados.</span></p>
         </div>
     </footer>
 
@@ -367,6 +367,6 @@
     </script>
 
     <!-- Scripts -->
-    <script src="js/index.js"></script>
+    <script src="js/ds.js"></script>
 </body>
 </html>

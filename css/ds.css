@@ -361,7 +361,7 @@ section {
 .about-image {
     flex: 1;
     background-color: var(--bg-tertiary);
-    height: 500px;
+    height: 400px;
     border-radius: 10px;
     display: flex;
     justify-content: center;

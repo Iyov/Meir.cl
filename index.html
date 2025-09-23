@@ -21,11 +21,12 @@
     <meta property="twitter:title" content="Meir Consultores de Energía | Consultoría Energética, Desarrollo Web y Marketing Digital" />
     <meta property="twitter:description" content="Meir Consultores de Energía ofrece servicios de consultoría energética, desarrollo de software, creación de páginas web y marketing digital en Chile." />
     <meta property="twitter:image" content="https://meir.cl/img/Meir_Logo.png" />
-    
-    <!-- Fuentes -->
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" />
+
+    <!-- Preload de fuentes para mejorar rendimiento -->
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" as="style" />
     
     <!-- Estilos -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" />
     <link rel="icon" href="img/favicon.png" type="image/x-icon" />
     <link rel="stylesheet" href="css/font-awesome_6.4.0_all.min.css" type="text/css" />
     <link rel="stylesheet" href="css/index.css" type="text/css" />
@@ -51,19 +52,19 @@
 
             <ul class="nav-menu" id="navMenu">
                 <li class="nav-item">
-                    <a href="#about" class="nav-link">Quiénes Somos</a>
+                    <a href="#about" class="nav-link" data-es="Quiénes Somos" data-en="About Us">Quiénes Somos</a>
                 </li>
                 <li class="nav-item">
-                    <a href="#testimonials" class="nav-link">Testimonios</a>
+                    <a href="#testimonials" class="nav-link" data-es="Testimonios" data-en="Testimonials">Testimonios</a>
                 </li>
                 <li class="nav-item">
-                    <a href="#geek" class="nav-link">Dato Geek</a>
+                    <a href="#geek" class="nav-link" data-es="Dato Geek" data-en="Geek Fact">Dato Geek</a>
                 </li>
                 <li class="nav-item">
-                    <a href="#faq" class="nav-link">Preguntas Frecuentes</a>
+                    <a href="#faq" class="nav-link" data-es="Preguntas Frecuentes" data-en="FAQ">Preguntas Frecuentes</a>
                 </li>
                 <li class="nav-item">
-                    <a href="#contact" class="nav-link">Contacto</a>
+                    <a href="#contact" class="nav-link" data-es="Contacto" data-en="Contact">Contacto</a>
                 </li>
             </ul>
 
@@ -78,10 +79,10 @@
                     </button>
                     <div class="language-menu" id="languageMenu">
                         <div class="language-option" data-lang="es">
-                            <span class="language-flag">🇪🇸</span> Español
+                            <span class="language-flag">??</span> Español
                         </div>
                         <div class="language-option" data-lang="en">
-                            <span class="language-flag">🇺🇸</span> English
+                            <span class="language-flag">??</span> English
                         </div>
                     </div>
                 </div>
@@ -119,7 +120,7 @@
                     <p data-es="Con sede en Chile, trabajamos con clientes de diversos sectores, brindando asesoramiento personalizado y soluciones adaptadas a sus necesidades específicas. Nuestro compromiso es contribuir al éxito de nuestros clientes mediante la implementación de tecnologías avanzadas y prácticas energéticas eficientes." data-en="Based in Chile, we work with clients from various sectors, providing personalized advice and solutions tailored to their specific needs. Our commitment is to contribute to the success of our clients through the implementation of advanced technologies and efficient energy practices.">Con sede en Chile, trabajamos con clientes de diversos sectores, brindando asesoramiento personalizado y soluciones adaptadas a sus necesidades específicas. Nuestro compromiso es contribuir al éxito de nuestros clientes mediante la implementación de tecnologías avanzadas y prácticas energéticas eficientes.</p>
                 </div>
                 <div class="about-image">
-                    <img src="img/Meir_Logo_SF.png" alt="Meir Consultores Logo" /><!--<i class="fas fa-users"></i>-->
+                    <img src="img/Meir_Logo_SF.png" alt="Meir Consultores Logo" loading="lazy" /><!--<i class="fas fa-users"></i>-->
                 </div>
             </div>
         </div>
