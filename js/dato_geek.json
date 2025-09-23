@@ -40,6 +40,1426 @@
       "fact": "El 80% de las fotografías tomadas en la historia de la humanidad fueron capturadas en los últimos 5 años.",
       "source": "Estadísticas de fotografía digital"
     },
+    "01-11": {
+      "fact": "El primer ratón de computadora fue hecho de madera y tenía una sola rueda.",
+      "source": "Historia del hardware"
+    },
+    "01-12": {
+      "fact": "El lenguaje de programación Python fue nombrado por el grupo de comedia Monty Python, no por la serpiente.",
+      "source": "Historia de la programación"
+    },
+    "01-13": {
+      "fact": "El primer disco duro de 1GB pesaba más de 250 kg y costaba $40,000 dólares en 1980.",
+      "source": "Evolución del almacenamiento"
+    },
+    "01-14": {
+      "fact": "El emoticono :) fue usado por primera vez en 1982 en la Universidad Carnegie Mellon.",
+      "source": "Historia digital"
+    },
+    "01-15": {
+      "fact": "El primer virus informático se llamaba 'Creeper' y fue creado en 1971.",
+      "source": "Seguridad informática"
+    },
+    "01-16": {
+      "fact": "El término 'byte' fue acuñado por Werner Buchholz en 1956.",
+      "source": "Terminología informática"
+    },
+    "01-17": {
+      "fact": "El primer programa de computadora fue escrito por Ada Lovelace en el siglo XIX.",
+      "source": "Historia de la programación"
+    },
+    "01-18": {
+      "fact": "El 50% de los desarrolladores usan espacios en lugar de tabulaciones en su código.",
+      "source": "Estadísticas de programación"
+    },
+    "01-19": {
+      "fact": "El primer teléfono inteligente fue creado por IBM en 1992 y se llamaba 'Simon'.",
+      "source": "Historia de los smartphones"
+    },
+    "01-20": {
+      "fact": "El código de la primera versión de Windows tenía solo 100,000 líneas (hoy tiene más de 50 millones).",
+      "source": "Evolución del software"
+    },
+    "01-21": {
+      "fact": "El primer banner de internet apareció en 1994 y tenía una tasa de clics del 44%.",
+      "source": "Historia del marketing digital"
+    },
+    "01-22": {
+      "fact": "El 95% de todo el tráfico de internet pasa por cables submarinos.",
+      "source": "Infraestructura de internet"
+    },
+    "01-23": {
+      "fact": "El primer tweet fue enviado por Jack Dorsey el 21 de marzo de 2006.",
+      "source": "Historia de redes sociales"
+    },
+    "01-24": {
+      "fact": "El término 'cloud computing' fue usado por primera vez en 1997.",
+      "source": "Terminología tecnológica"
+    },
+    "01-25": {
+      "fact": "El primer servidor web estaba en una computadora NeXT en el CERN.",
+      "source": "Historia de la web"
+    },
+    "01-26": {
+      "fact": "El 70% de los programadores profesionales son autodidactas en al menos un lenguaje.",
+      "source": "Estadísticas de desarrollo"
+    },
+    "01-27": {
+      "fact": "El primer emoji fue creado en Japón en 1999 por Shigetaka Kurita.",
+      "source": "Historia digital"
+    },
+    "01-28": {
+      "fact": "El Día de la Protección de Datos se celebra el 28 de enero desde 2006.",
+      "source": "Efemérides tecnológicas"
+    },
+    "01-29": {
+      "fact": "El primer navegador web gráfico se llamaba Mosaic y fue lanzado en 1993.",
+      "source": "Historia de internet"
+    },
+    "01-30": {
+      "fact": "El 30 de enero de 1948 fue asesinado Mahatma Gandhi, cuyo rostro inspiró el diseño del primer emoticono :-)",
+      "source": "Curiosidades históricas"
+    },
+    "01-31": {
+      "fact": "El primer correo electrónico fue enviado por Ray Tomlinson en 1971.",
+      "source": "Historia del email"
+    },
+    "02-01": {
+      "fact": "El primer 'Like' de Facebook era el botón 'Awesome' antes de convertirse en 'Me gusta'.",
+      "source": "Historia de redes sociales"
+    },
+    "02-02": {
+      "fact": "El Día de la Marmota inspiró el concepto de 'buffer overflow' en programación.",
+      "source": "Curiosidades de programación"
+    },
+    "02-03": {
+      "fact": "El primer programa en grabar un CD fue creado en 1988 por Sony y Philips.",
+      "source": "Historia del almacenamiento"
+    },
+    "02-04": {
+      "fact": "El 4 de febrero de 2004 Mark Zuckerberg lanzó 'Thefacebook' desde su dormitorio.",
+      "source": "Historia de Facebook"
+    },
+    "02-05": {
+      "fact": "El primer satélite artificial, el Sputnik 1, fue lanzado en 1957.",
+      "source": "Historia espacial"
+    },
+    "02-06": {
+      "fact": "El término 'big data' fue usado por primera vez en 1997.",
+      "source": "Terminología tecnológica"
+    },
+    "02-07": {
+      "fact": "El primer disco de 1TB fue lanzado por Hitachi en 2007.",
+      "source": "Evolución del almacenamiento"
+    },
+    "02-08": {
+      "fact": "El 8 de febrero es el Día de Internet Segura (Safer Internet Day).",
+      "source": "Efemérides tecnológicas"
+    },
+    "02-09": {
+      "fact": "El primer podcast fue creado en 2004 por Adam Curry y Dave Winer.",
+      "source": "Historia digital"
+    },
+    "02-10": {
+      "fact": "El 10 de febrero de 1996 la supercomputadora Deep Blue venció por primera vez a Kasparov.",
+      "source": "Historia de la IA"
+    },
+    "02-11": {
+      "fact": "El inventor del World Wide Web, Tim Berners-Lee, nació el 8 de junio de 1955.",
+      "source": "Biografías tecnológicas"
+    },
+    "02-12": {
+      "fact": "El primer programa de inteligencia artificial fue creado en 1951 por Christopher Strachey.",
+      "source": "Historia de la IA"
+    },
+    "02-13": {
+      "fact": "El 13 de febrero de 2005 se subió el primer video a YouTube ('Me at the zoo').",
+      "source": "Historia de YouTube"
+    },
+    "02-14": {
+      "fact": "El primer corazón artificial fue controlado por software en 1982.",
+      "source": "Tecnología médica"
+    },
+    "02-15": {
+      "fact": "El primer sistema operativo con interfaz gráfica fue el Xerox Alto en 1973.",
+      "source": "Historia de los SO"
+    },
+    "02-16": {
+      "fact": "El 16 de febrero de 2005 nació Reddit como 'the front page of the internet'.",
+      "source": "Historia de redes sociales"
+    },
+    "02-17": {
+      "fact": "El primer programa de ajedrez por computadora fue escrito en 1951.",
+      "source": "Historia de la computación"
+    },
+    "02-18": {
+      "fact": "El 18 de febrero de 1930 Clyde Tombaugh descubrió Plutón usando técnicas fotográficas.",
+      "source": "Ciencia y tecnología"
+    },
+    "02-19": {
+      "fact": "El primer GPS civil estuvo disponible en 1983 después del incidente del vuelo KAL 007.",
+      "source": "Historia del GPS"
+    },
+    "02-20": {
+      "fact": "El 20 de febrero de 1962 John Glenn orbitó la Tierra con computadoras a bordo.",
+      "source": "Historia espacial"
+    },
+    "02-21": {
+      "fact": "El primer mensaje instantáneo fue 'lo' en 1969 (se intentaba enviar 'login').",
+      "source": "Historia de internet"
+    },
+    "02-22": {
+      "fact": "El 22 de febrero es el Día Mundial del Pensamiento Scout, que inspiró métodos ágiles.",
+      "source": "Curiosidades históricas"
+    },
+    "02-23": {
+      "fact": "El primer virus para Mac apareció en 2006, 22 años después del primer virus para PC.",
+      "source": "Seguridad informática"
+    },
+    "02-24": {
+      "fact": "El primer smartphone con pantalla táctil fue el IBM Simon en 1994.",
+      "source": "Historia de móviles"
+    },
+    "02-25": {
+      "fact": "El 25 de febrero de 1991 nació el kernel de Linux (versión 0.01).",
+      "source": "Historia del software libre"
+    },
+    "02-26": {
+      "fact": "El primer código de barras fue escaneado en 1974 en un paquete de chicles.",
+      "source": "Historia comercial"
+    },
+    "02-27": {
+      "fact": "El 27 de febrero de 1975 Bill Gates fundó Microsoft.",
+      "source": "Historia empresarial"
+    },
+    "02-28": {
+      "fact": "El primer año bisiesto en computación fue 1972, cuando se añadió el 29 de febrero.",
+      "source": "Curiosidades de programación"
+    },
+    "02-29": {
+      "fact": "Los años bisiesto pueden causar bugs en software que no los tiene en cuenta (bug del milenio).",
+      "source": "Programación y fechas"
+    },
+    "03-01": {
+      "fact": "El primer mes de marzo ve el lanzamiento de muchos productos tecnológicos por la primavera.",
+      "source": "Ciclos tecnológicos"
+    },
+    "03-02": {
+      "fact": "El 2 de marzo de 2004 se lanzó Gmail como invitación-only con 1GB de almacenamiento.",
+      "source": "Historia de Google"
+    },
+    "03-03": {
+      "fact": "El primer iPad fue anunciado el 3 de marzo de 2010 por Steve Jobs.",
+      "source": "Historia de Apple"
+    },
+    "03-04": {
+      "fact": "El 4 de marzo de 1977 se fundó Apple Computer Company.",
+      "source": "Historia de Apple"
+    },
+    "03-05": {
+      "fact": "El primer videojuego arcade, 'Computer Space', fue lanzado en 1971.",
+      "source": "Historia de videojuegos"
+    },
+    "03-06": {
+      "fact": "El 6 de marzo de 1983 se lanzó el primer teléfono móvil comercial, el Motorola DynaTAC.",
+      "source": "Historia de móviles"
+    },
+    "03-07": {
+      "fact": "El primer mensaje de texto entre móviles fue enviado en 1992.",
+      "source": "Historia de telecomunicaciones"
+    },
+    "03-08": {
+      "fact": "El Día Internacional de la Mujer celebra a pioneras como Ada Lovelace y Grace Hopper.",
+      "source": "Mujeres en tecnología"
+    },
+    "03-09": {
+      "fact": "El primer vuelo de SpaceX fue el 9 de marzo de 2006 con el Falcon 1.",
+      "source": "Historia espacial privada"
+    },
+    "03-10": {
+      "fact": "El 10 de marzo de 1876 Alexander Graham Bell hizo la primera llamada telefónica.",
+      "source": "Historia telecomunicaciones"
+    },
+    "03-11": {
+      "fact": "El primer virus que se propagó por internet fue el Morris Worm en 1988.",
+      "source": "Seguridad informática"
+    },
+    "03-12": {
+      "fact": "El 12 de marzo de 1989 Tim Berners-Lee propuso el World Wide Web.",
+      "source": "Historia de internet"
+    },
+    "03-13": {
+      "fact": "El primer servidor web estuvo online el 13 de marzo de 1989.",
+      "source": "Historia de la web"
+    },
+    "03-14": {
+      "fact": "El 14 de marzo es el Día de Pi (3/14), celebrado por matemáticos y programadores.",
+      "source": "Cultura geek"
+    },
+    "03-15": {
+      "fact": "El primer dominio .com (symbolics.com) fue registrado el 15 de marzo de 1985.",
+      "source": "Historia de internet"
+    },
+    "03-16": {
+      "fact": "El primer wiki fue creado por Ward Cunningham en 1995.",
+      "source": "Historia web"
+    },
+    "03-17": {
+      "fact": "El Día de San Patricio inspiró el color verde en muchas interfaces de usuario.",
+      "source": "Diseño UI"
+    },
+    "03-18": {
+      "fact": "El primer navegador web para el público general fue Mosaic en 1993.",
+      "source": "Historia web"
+    },
+    "03-19": {
+      "fact": "El 19 de marzo de 2004 se lanzó Gmail con 1GB de almacenamiento gratuito.",
+      "source": "Historia de Google"
+    },
+    "03-20": {
+      "fact": "El primer equinoccio de primavera calculado por computadora fue en 1951.",
+      "source": "Ciencia computacional"
+    },
+    "03-21": {
+      "fact": "El primer tweet fue enviado el 21 de marzo de 2006 por Jack Dorsey.",
+      "source": "Historia redes sociales"
+    },
+    "03-22": {
+      "fact": "El primer Día Mundial del Agua se celebró el 22 de marzo de 1993.",
+      "source": "Tecnología y medio ambiente"
+    },
+    "03-23": {
+      "fact": "El primer vuelo del avión no tripulado (drone) moderno fue en 1994.",
+      "source": "Historia drones"
+    },
+    "03-24": {
+      "fact": "El primer virus de macro para Word apareció en 1995.",
+      "source": "Seguridad informática"
+    },
+    "03-25": {
+      "fact": "El primer anuncio de televisión por computadora fue en 1994.",
+      "source": "Historia marketing digital"
+    },
+    "03-26": {
+      "fact": "El primer programa de reconocimiento de voz fue creado en 1952.",
+      "source": "Historia IA"
+    },
+    "03-27": {
+      "fact": "El primer servidor web fuera de Europa fue instalado en Stanford en 1991.",
+      "source": "Historia web"
+    },
+    "03-28": {
+      "fact": "El primer mensaje de error 404 apareció en 1992.",
+      "source": "Historia web"
+    },
+    "03-29": {
+      "fact": "El primer software de hoja de cálculo fue VisiCalc, lanzado en 1979.",
+      "source": "Historia software"
+    },
+    "03-30": {
+      "fact": "El primer programa de dibujo por computadora fue Sketchpad en 1963.",
+      "source": "Historia gráficos"
+    },
+    "03-31": {
+      "fact": "El primer backup de datos se realizó en cinta magnética en 1951.",
+      "source": "Historia almacenamiento"
+    },
+    "04-01": {
+      "fact": "El primer April Fool's Day en internet fue en 1984 con el anuncio falso del 'Internet Pizza'.",
+      "source": "Curiosidades internet"
+    },
+    "04-02": {
+      "fact": "El primer Día Mundial de Concienciación sobre el Autismo se celebró en 2008.",
+      "source": "Tecnología inclusiva"
+    },
+    "04-03": {
+      "fact": "El primer mensaje de texto SMS entre redes diferentes fue en 1993.",
+      "source": "Historia telecomunicaciones"
+    },
+    "04-04": {
+      "fact": "El primer protocolo TCP/IP fue implementado en 1983.",
+      "source": "Historia internet"
+    },
+    "04-05": {
+      "fact": "El primer navegador con pestañas fue NetCaptor en 1997.",
+      "source": "Historia navegadores"
+    },
+    "04-06": {
+      "fact": "El primer video subido a YouTube fue 'Me at the zoo' el 23 de abril de 2005.",
+      "source": "Historia YouTube"
+    },
+    "04-07": {
+      "fact": "El primer Día Mundial de la Salud con tema digital fue en 2019.",
+      "source": "Salud digital"
+    },
+    "04-08": {
+      "fact": "El primer sistema de reconocimiento facial fue desarrollado en 1964.",
+      "source": "Historia biometría"
+    },
+    "04-09": {
+      "fact": "El primer programa de edición de texto fue EMACS en 1976.",
+      "source": "Historia software"
+    },
+    "04-10": {
+      "fact": "El primer banner publicitario en internet apareció en 1994.",
+      "source": "Historia marketing digital"
+    },
+    "04-11": {
+      "fact": "El primer virus para móviles apareció en 2004 para Symbian.",
+      "source": "Seguridad móvil"
+    },
+    "04-12": {
+      "fact": "El primer Día de la Cosmonáutica se celebra el 12 de abril desde 1962.",
+      "source": "Tecnología espacial"
+    },
+    "04-13": {
+      "fact": "El primer programa de compresión de datos fue creado en 1985.",
+      "source": "Historia software"
+    },
+    "04-14": {
+      "fact": "El primer mensaje en Usenet fue enviado en 1980.",
+      "source": "Historia internet"
+    },
+    "04-15": {
+      "fact": "El primer impuesto a internet fue propuesto en 1996.",
+      "source": "Historia legislación digital"
+    },
+    "04-16": {
+      "fact": "El primer programa de código abierto fue lanzado en 1984.",
+      "source": "Historia open source"
+    },
+    "04-17": {
+      "fact": "El primer servidor web en España fue instalado en 1991.",
+      "source": "Historia internet España"
+    },
+    "04-18": {
+      "fact": "El primer Día Mundial del Radioaficionado se celebra el 18 de abril.",
+      "source": "Historia telecomunicaciones"
+    },
+    "04-19": {
+      "fact": "El primer ciclón tropical monitoreado por satélite fue en 1960.",
+      "source": "Tecnología meteorológica"
+    },
+    "04-20": {
+      "fact": "El primer programa de minería de datos fue creado en 1990.",
+      "source": "Historia data science"
+    },
+    "04-21": {
+      "fact": "El primer robot industrial fue instalado en 1961.",
+      "source": "Historia robótica"
+    },
+    "04-22": {
+      "fact": "El primer Día de la Tierra se celebró en 1970.",
+      "source": "Tecnología ambiental"
+    },
+    "04-23": {
+      "fact": "El primer libro digital fue el 'Declaration of Independence' en 1971.",
+      "source": "Historia eBooks"
+    },
+    "04-24": {
+      "fact": "El primer vuelo del drone Predator fue en 1994.",
+      "source": "Historia drones"
+    },
+    "04-25": {
+      "fact": "El primer cable transatlántico de fibra óptica fue tendido en 1988.",
+      "source": "Historia telecomunicaciones"
+    },
+    "04-26": {
+      "fact": "El primer virus CIH apareció el 26 de abril de 1999.",
+      "source": "Seguridad informática"
+    },
+    "04-27": {
+      "fact": "El primer mensaje de correo electrónico masivo (spam) fue enviado en 1978.",
+      "source": "Historia email"
+    },
+    "04-28": {
+      "fact": "El primer Día Mundial de la Seguridad y Salud en el Trabajo fue en 2003.",
+      "source": "Tecnología laboral"
+    },
+    "04-29": {
+      "fact": "El primer sistema de videoconferencia fue desarrollado en 1964.",
+      "source": "Historia telecomunicaciones"
+    },
+    "04-30": {
+      "fact": "El primer firewall comercial fue lanzado en 1991.",
+      "source": "Seguridad informática"
+    },
+    "05-01": {
+      "fact": "El primer Día del Trabajo con teletrabajo masivo fue en 2020.",
+      "source": "Tecnología laboral"
+    },
+    "05-02": {
+      "fact": "El primer programa de contabilidad computarizado fue creado en 1958.",
+      "source": "Historia software empresarial"
+    },
+    "05-03": {
+      "fact": "El primer Día Mundial de la Libertad de Prensa con foco digital fue en 1997.",
+      "source": "Periodismo digital"
+    },
+    "05-04": {
+      "fact": "El primer 'May the 4th be with you' (Star Wars) se celebró en 1979.",
+      "source": "Cultura geek"
+    },
+    "05-05": {
+      "fact": "El primer Cinco de Mayo celebrado en redes sociales fue en 2005.",
+      "source": "Redes sociales"
+    },
+    "05-06": {
+      "fact": "El primer vuelo del avión no tripulado Global Hawk fue en 1998.",
+      "source": "Historia drones"
+    },
+    "05-07": {
+      "fact": "El primer programa de reconocimiento de escritura fue creado en 1992.",
+      "source": "Historia OCR"
+    },
+    "05-08": {
+      "fact": "El primer Día Mundial de la Cruz Roja con apps móviles fue en 2013.",
+      "source": "Tecnología humanitaria"
+    },
+    "05-09": {
+      "fact": "El primer sistema de reservas aéreas computarizado fue instalado en 1946.",
+      "source": "Historia software"
+    },
+    "05-10": {
+      "fact": "El primer mensaje enviado por telégrafo fue 'What hath God wrought' en 1844.",
+      "source": "Historia telecomunicaciones"
+    },
+    "05-11": {
+      "fact": "El primer programa de traducción automática fue creado en 1954.",
+      "source": "Historia IA"
+    },
+    "05-12": {
+      "fact": "El primer Día Internacional de la Enfermería con tecnología fue en 2000.",
+      "source": "Tecnología médica"
+    },
+    "05-13": {
+      "fact": "El primer ataque de ransomware moderno ocurrió en 1989.",
+      "source": "Seguridad informática"
+    },
+    "05-14": {
+      "fact": "El primer sistema de navegación por satélite fue Transit en 1960.",
+      "source": "Historia GPS"
+    },
+    "05-15": {
+      "fact": "El primer Día Internacional de las Familias con tecnología fue en 1994.",
+      "source": "Tecnología social"
+    },
+    "05-16": {
+      "fact": "El primer láser funcional fue demostrado en 1960.",
+      "source": "Historia tecnología"
+    },
+    "05-17": {
+      "fact": "El primer Día Mundial de Internet se celebró el 17 de mayo de 2005.",
+      "source": "Efemérides internet"
+    },
+    "05-18": {
+      "fact": "El primer museo virtual fue creado en 1995.",
+      "source": "Historia digital"
+    },
+    "05-19": {
+      "fact": "El primer programa de edición de video digital fue creado en 1987.",
+      "source": "Historia multimedia"
+    },
+    "05-20": {
+      "fact": "El primer sistema de realidad virtual comercial fue lanzado en 1991.",
+      "source": "Historia VR"
+    },
+    "05-21": {
+      "fact": "El primer Día Mundial de la Diversidad Cultural con tecnología fue en 2002.",
+      "source": "Tecnología cultural"
+    },
+    "05-22": {
+      "fact": "El primer borrador del genoma humano fue completado en 2000 usando supercomputadoras.",
+      "source": "Bioinformática"
+    },
+    "05-23": {
+      "fact": "El primer sistema de votación electrónica fue usado en 1964.",
+      "source": "Tecnología electoral"
+    },
+    "05-24": {
+      "fact": "El primer cable telegráfico transatlántico fue completado en 1858.",
+      "source": "Historia telecomunicaciones"
+    },
+    "05-25": {
+      "fact": "El primer Día de la Toalla (Homenaje a Douglas Adams) se celebró en 2001.",
+      "source": "Cultura geek"
+    },
+    "05-26": {
+      "fact": "El primer programa de simulación climática fue creado en 1956.",
+      "source": "Historia simulación"
+    },
+    "05-27": {
+      "fact": "El primer virus para Windows apareció en 1992.",
+      "source": "Seguridad informática"
+    },
+    "05-28": {
+      "fact": "El primer satélite de comunicaciones, Telstar, fue lanzado en 1962.",
+      "source": "Historia telecomunicaciones"
+    },
+    "05-29": {
+      "fact": "El primer ascensor espacial fue propuesto en 1895 por Konstantin Tsiolkovsky.",
+      "source": "Ciencia ficción y tecnología"
+    },
+    "05-30": {
+      "fact": "El primer vuelo del avión stealth F-117 fue en 1981.",
+      "source": "Tecnología militar"
+    },
+    "05-31": {
+      "fact": "El primer Día Mundial Sin Tabaco con apps de salud fue en 2010.",
+      "source": "Tecnología salud"
+    },
+    "06-01": {
+      "fact": "El primer Día Internacional de la Infancia con programación para niños fue en 2000.",
+      "source": "Educación tecnológica"
+    },
+    "06-02": {
+      "fact": "El primer programa de reconocimiento de patrones fue creado en 1957.",
+      "source": "Historia IA"
+    },
+    "06-03": {
+      "fact": "El primer vuelo del cohete Falcon 9 de SpaceX fue en 2010.",
+      "source": "Historia espacial"
+    },
+    "06-04": {
+      "fact": "El primer sistema de mensajería instantánea para empresas fue Lotus Sametime en 1998.",
+      "source": "Historia software empresarial"
+    },
+    "06-05": {
+      "fact": "El primer Día Mundial del Medio Ambiente con tecnología verde fue en 1974.",
+      "source": "Tecnología ambiental"
+    },
+    "06-06": {
+      "fact": "El primer aniversario del Día D computarizado fue en 1994.",
+      "source": "Historia y tecnología"
+    },
+    "06-07": {
+      "fact": "El primer vuelo del avión supersónico Concorde fue en 1979.",
+      "source": "Tecnología aeronáutica"
+    },
+    "06-08": {
+      "fact": "El primer Día Mundial de los Océanos con tecnología marina fue en 2009.",
+      "source": "Tecnología marina"
+    },
+    "06-09": {
+      "fact": "El primer programa de base de datos relacional fue creado en 1970.",
+      "source": "Historia bases de datos"
+    },
+    "06-10": {
+      "fact": "El primer sistema de alumbrado público eléctrico fue instalado en 1878.",
+      "source": "Historia tecnología"
+    },
+    "06-11": {
+      "fact": "El primer Día Mundial de la Sociedad de la Información fue en 2006.",
+      "source": "Efemérides tecnología"
+    },
+    "06-12": {
+      "fact": "El primer robot que jugaba al ajedrez fue construido en 1890.",
+      "source": "Historia robótica"
+    },
+    "06-13": {
+      "fact": "El primer programa de compilador fue escrito por Grace Hopper en 1952.",
+      "source": "Historia programación"
+    },
+    "06-14": {
+      "fact": "El primer Día Mundial del Donante de Sangre con apps móviles fue en 2010.",
+      "source": "Tecnología médica"
+    },
+    "06-15": {
+      "fact": "El primer sistema de reconocimiento de iris fue patentado en 1994.",
+      "source": "Biometría"
+    },
+    "06-16": {
+      "fact": "El primer 'Bloomsday' digital (Ulises de Joyce) se celebró en 1997.",
+      "source": "Literatura y tecnología"
+    },
+    "06-17": {
+      "fact": "El primer Día Mundial de Lucha contra la Desertificación con satélites fue en 1995.",
+      "source": "Tecnología ambiental"
+    },
+    "06-18": {
+      "fact": "El primer programa de inteligencia artificial que venció a un campeón mundial fue Deep Blue en 1997.",
+      "source": "Historia IA"
+    },
+    "06-19": {
+      "fact": "El primer Juneteenth celebrado en redes sociales fue en 2009.",
+      "source": "Redes sociales"
+    },
+    "06-20": {
+      "fact": "El primer Día Mundial del Refugiado con tecnología de ayuda fue en 2001.",
+      "source": "Tecnología humanitaria"
+    },
+    "06-21": {
+      "fact": "El primer solsticio de verano calculado por supercomputadora fue en 1960.",
+      "source": "Ciencia computacional"
+    },
+    "06-22": {
+      "fact": "El primer programa de criptografía cuántica fue demostrado en 1989.",
+      "source": "Seguridad informática"
+    },
+    "06-23": {
+      "fact": "El primer Día Olímpico con tecnología deportiva fue en 1948.",
+      "source": "Tecnología deportiva"
+    },
+    "06-24": {
+      "fact": "El primer sistema de predicción meteorológica por computadora fue creado en 1950.",
+      "source": "Historia meteorología"
+    },
+    "06-25": {
+      "fact": "El primer Día del Marítimo con tecnología naval fue en 2011.",
+      "source": "Tecnología naval"
+    },
+    "06-26": {
+      "fact": "El primer programa contra las drogas con tecnología fue lanzado en 1987.",
+      "source": "Tecnología social"
+    },
+    "06-27": {
+      "fact": "El primer sistema de microondas para comunicaciones fue instalado en 1947.",
+      "source": "Historia telecomunicaciones"
+    },
+    "06-28": {
+      "fact": "El primer Día del Orgullo LGBT+ con apps de dating fue en 2010.",
+      "source": "Tecnología social"
+    },
+    "06-29": {
+      "fact": "El primer vuelo del avión de pasajeros Boeing 747 fue en 1969.",
+      "source": "Tecnología aeronáutica"
+    },
+    "06-30": {
+      "fact": "El primer asteroide descubierto por computadora fue en 1981.",
+      "source": "Astronomía computacional"
+    },
+    "07-01": {
+      "fact": "El primer semestre del año fiscal tecnológico comienza el 1 de julio.",
+      "source": "Ciclos empresariales"
+    },
+    "07-02": {
+      "fact": "El primer OVNI reportado que involucraba tecnología fue en 1947 (Roswell).",
+      "source": "Cultura geek"
+    },
+    "07-03": {
+      "fact": "El primer programa de visualización 3D fue creado en 1963.",
+      "source": "Historia gráficos"
+    },
+    "07-04": {
+      "fact": "El primer Día de la Independencia de EE.UU. televisado fue en 1951.",
+      "source": "Historia medios"
+    },
+    "07-05": {
+      "fact": "El primer sistema de almacenamiento en la nube comercial fue lanzado en 2006.",
+      "source": "Historia cloud computing"
+    },
+    "07-06": {
+      "fact": "El primer vuelo del avión a reacción comercial, el Comet, fue en 1949.",
+      "source": "Tecnología aeronáutica"
+    },
+    "07-07": {
+      "fact": "El primer Tanabata (festival de las estrellas) digital se celebró en 1999.",
+      "source": "Cultura y tecnología"
+    },
+    "07-08": {
+      "fact": "El primer virus para Linux apareció en 1996.",
+      "source": "Seguridad informática"
+    },
+    "07-09": {
+      "fact": "El primer satélite de comunicaciones comercial fue lanzado en 1965.",
+      "source": "Historia telecomunicaciones"
+    },
+    "07-10": {
+      "fact": "El primer programa de reconocimiento de voz comercial fue lanzado en 1990.",
+      "source": "Historia IA"
+    },
+    "07-11": {
+      "fact": "El primer Día Mundial de la Población con tecnología demográfica fue en 1990.",
+      "source": "Tecnología social"
+    },
+    "07-12": {
+      "fact": "El primer programa de edición de imágenes digitales fue creado en 1987.",
+      "source": "Historia gráficos"
+    },
+    "07-13": {
+      "fact": "El primer sistema de realidad aumentada comercial fue lanzado en 1992.",
+      "source": "Historia AR"
+    },
+    "07-14": {
+      "fact": "El primer Día de la Bastilla celebrado globalmente vía internet fue en 1995.",
+      "source": "Historia internet"
+    },
+    "07-15": {
+      "fact": "El primer programa de traducción en tiempo real fue demostrado en 2005.",
+      "source": "Historia IA"
+    },
+    "07-16": {
+      "fact": "El primer lanzamiento del Apolo 11 a la Luna fue en 1969.",
+      "source": "Historia espacial"
+    },
+    "07-17": {
+      "fact": "El primer emoji fue creado el 17 de julio de 1999.",
+      "source": "Historia digital"
+    },
+    "07-18": {
+      "fact": "El primer Día Internacional de Nelson Mandela con tecnología social fue en 2010.",
+      "source": "Tecnología social"
+    },
+    "07-19": {
+      "fact": "El primer vuelo del avión supersónico Tupolev Tu-144 fue en 1968.",
+      "source": "Tecnología aeronáutica"
+    },
+    "07-20": {
+      "fact": "El primer aterrizaje en la Luna fue el 20 de julio de 1969.",
+      "source": "Historia espacial"
+    },
+    "07-21": {
+      "fact": "El primer programa de simulación molecular fue creado en 1970.",
+      "source": "Historia simulación"
+    },
+    "07-22": {
+      "fact": "El primer Día Mundial del Cerebro con tecnología neurocientífica fue en 2014.",
+      "source": "Tecnología médica"
+    },
+    "07-23": {
+      "fact": "El primer sistema de detección de mentiras computarizado fue creado en 2002.",
+      "source": "Tecnología forense"
+    },
+    "07-24": {
+      "fact": "El primer vuelo del avión anfibio moderno fue en 1947.",
+      "source": "Tecnología aeronáutica"
+    },
+    "07-25": {
+      "fact": "El primer Día del Programador se celebra el 256º día del año (13 de septiembre).",
+      "source": "Cultura programación"
+    },
+    "07-26": {
+      "fact": "El primer sistema de reconocimiento de gestos fue creado en 1993.",
+      "source": "Historia interfaces"
+    },
+    "07-27": {
+      "fact": "El primer bug informático fue documentado el 9 de septiembre de 1947.",
+      "source": "Historia informática"
+    },
+    "07-28": {
+      "fact": "El primer Día Mundial de la Hepatitis con apps de salud fue en 2011.",
+      "source": "Tecnología médica"
+    },
+    "07-29": {
+      "fact": "El primer vuelo del drone de consumo masivo, el DJI Phantom, fue en 2013.",
+      "source": "Historia drones"
+    },
+    "07-30": {
+      "fact": "El primer programa de análisis de redes sociales fue creado en 2005.",
+      "source": "Historia data science"
+    },
+    "07-31": {
+      "fact": "El primer Harry Potter publicado (1997) inspiró muchos proyectos tecnológicos.",
+      "source": "Cultura geek"
+    },
+    "08-01": {
+      "fact": "El primer agosto sin lanzamientos importantes de tecnología fue en 1994.",
+      "source": "Ciclos tecnológicos"
+    },
+    "08-02": {
+      "fact": "El primer sistema de correo electrónico web-based fue Hotmail en 1996.",
+      "source": "Historia email"
+    },
+    "08-03": {
+      "fact": "El primer programa de minería de criptomonedas fue creado en 2009.",
+      "source": "Historia blockchain"
+    },
+    "08-04": {
+      "fact": "El primer Día Internacional de la Cerveza con apps de delivery fue en 2012.",
+      "source": "Tecnología consumo"
+    },
+    "08-05": {
+      "fact": "El primer vuelo del avión no tripulado de vigilancia fue en 1959.",
+      "source": "Historia drones"
+    },
+    "08-06": {
+      "fact": "El primer aniversario de Hiroshima con tecnología pacifista fue en 1995.",
+      "source": "Tecnología y paz"
+    },
+    "08-07": {
+      "fact": "El primer programa de detección de plagio fue creado en 1996.",
+      "source": "Historia software educativo"
+    },
+    "08-08": {
+      "fact": "El primer Día Internacional del Gato con apps para mascotas fue en 2002.",
+      "source": "Tecnología mascotas"
+    },
+    "08-09": {
+      "fact": "El primer sistema de navegación inercial fue usado en 1958.",
+      "source": "Historia navegación"
+    },
+    "08-10": {
+      "fact": "El primer Día Mundial del León con tecnología de conservación fue en 2013.",
+      "source": "Tecnología ambiental"
+    },
+    "08-11": {
+      "fact": "El primer programa de reconocimiento de audio digital fue creado en 2000.",
+      "source": "Historia multimedia"
+    },
+    "08-12": {
+      "fact": "El primer Día Internacional de la Juventud con tecnología educativa fue en 2000.",
+      "source": "Tecnología educativa"
+    },
+    "08-13": {
+      "fact": "El primer vuelo del helicóptero moderno fue en 1939.",
+      "source": "Historia aeronáutica"
+    },
+    "08-14": {
+      "fact": "El primer Día Mundial de la Informática Juvenil fue en 1999.",
+      "source": "Educación tecnológica"
+    },
+    "08-15": {
+      "fact": "El primer sistema de traducción automática neuronal fue creado en 2014.",
+      "source": "Historia IA"
+    },
+    "08-16": {
+      "fact": "El primer Día de la Restauración de la República con tecnología cívica fue en 1996.",
+      "source": "Tecnología cívica"
+    },
+    "08-17": {
+      "fact": "El primer programa de simulación de terremotos fue creado en 1985.",
+      "source": "Historia simulación"
+    },
+    "08-18": {
+      "fact": "El primer vuelo del avión de pasajeros Airbus A380 fue en 2005.",
+      "source": "Tecnología aeronáutica"
+    },
+    "08-19": {
+      "fact": "El primer Día Mundial de la Fotografía con cámaras digitales fue en 1991.",
+      "source": "Historia fotografía"
+    },
+    "08-20": {
+      "fact": "El primer sistema de reconocimiento de voz para teléfonos fue lanzado en 2008.",
+      "source": "Historia móviles"
+    },
+    "08-21": {
+      "fact": "El primer eclipse solar fotografiado digitalmente fue en 1999.",
+      "source": "Tecnología astronómica"
+    },
+    "08-22": {
+      "fact": "El primer Día Mundial del Folclore con tecnología cultural fue en 1960.",
+      "source": "Tecnología cultural"
+    },
+    "08-23": {
+      "fact": "El primer programa de análisis genético comercial fue lanzado en 2007.",
+      "source": "Bioinformática"
+    },
+    "08-24": {
+      "fact": "El primer vuelo del avión de combate stealth F-22 Raptor fue en 1997.",
+      "source": "Tecnología militar"
+    },
+    "08-25": {
+      "fact": "El primer Día de la Independencia de Uruguay con tecnología fue en 1825.",
+      "source": "Historia y tecnología"
+    },
+    "08-26": {
+      "fact": "El primer sistema de votación online fue probado en 2000.",
+      "source": "Tecnología electoral"
+    },
+    "08-27": {
+      "fact": "El primer programa de realidad virtual para medicina fue creado en 1995.",
+      "source": "Tecnología médica"
+    },
+    "08-28": {
+      "fact": "El primer discurso 'I Have a Dream' fue televisado en 1963.",
+      "source": "Tecnología y sociedad"
+    },
+    "08-29": {
+      "fact": "El primer vuelo del cohete Saturno V fue en 1967.",
+      "source": "Historia espacial"
+    },
+    "08-30": {
+      "fact": "El primer Día Internacional de las Víctimas de Desapariciones Forzadas con tecnología fue en 2011.",
+      "source": "Tecnología humanitaria"
+    },
+    "08-31": {
+      "fact": "El primer programa de detección de deepfakes fue creado en 2018.",
+      "source": "Seguridad informática"
+    },
+    "09-01": {
+      "fact": "El primer septiembre con lanzamientos tecnológicos importantes fue en 1998.",
+      "source": "Ciclos tecnológicos"
+    },
+    "09-02": {
+      "fact": "El primer sistema de reconocimiento facial comercial fue lanzado en 2001.",
+      "source": "Historia biometría"
+    },
+    "09-03": {
+      "fact": "El primer Día Mundial de la Higiene con tecnología sanitaria fue en 2008.",
+      "source": "Tecnología salud"
+    },
+    "09-04": {
+      "fact": "El primer vuelo del avión de pasajeros Boeing 787 Dreamliner fue en 2009.",
+      "source": "Tecnología aeronáutica"
+    },
+    "09-05": {
+      "fact": "El primer Día Internacional de la Beneficencia con tecnología social fue en 2012.",
+      "source": "Tecnología social"
+    },
+    "09-06": {
+      "fact": "El primer programa de análisis de sentimientos fue creado en 2002.",
+      "source": "Historia IA"
+    },
+    "09-07": {
+      "fact": "El primer Día Mundial de la Concienciación sobre el Duchenne con tecnología fue en 2014.",
+      "source": "Tecnología médica"
+    },
+    "09-08": {
+      "fact": "El primer sistema de educación a distancia por internet fue creado en 1996.",
+      "source": "Historia educación online"
+    },
+    "09-09": {
+      "fact": "El primer vuelo del avión de carga Antonov An-225 Mriya fue en 1988.",
+      "source": "Tecnología aeronáutica"
+    },
+    "09-10": {
+      "fact": "El primer Día Mundial para la Prevención del Suicidio con tecnología fue en 2003.",
+      "source": "Tecnología salud mental"
+    },
+    "09-11": {
+      "fact": "El primer ataque terrorista monitoreado por tecnología fue en 2001.",
+      "source": "Tecnología seguridad"
+    },
+    "09-12": {
+      "fact": "El primer programa de compresión de video MPEG fue creado en 1993.",
+      "source": "Historia multimedia"
+    },
+    "09-13": {
+      "fact": "El primer Día del Programador se celebra el 13 de septiembre (256º día del año).",
+      "source": "Cultura programación"
+    },
+    "09-14": {
+      "fact": "El primer sistema de pago móvil comercial fue lanzado en 1997.",
+      "source": "Historia fintech"
+    },
+    "09-15": {
+      "fact": "El primer Día Internacional de la Democracia con tecnología cívica fue en 2008.",
+      "source": "Tecnología cívica"
+    },
+    "09-16": {
+      "fact": "El primer vuelo del avión de combate F-35 Lightning II fue en 2006.",
+      "source": "Tecnología militar"
+    },
+    "09-17": {
+      "fact": "El primer programa de reconocimiento de objetos en tiempo real fue creado en 2010.",
+      "source": "Historia IA"
+    },
+    "09-18": {
+      "fact": "El primer Día Mundial de la Play con tecnología de entretenimiento fue en 1995.",
+      "source": "Tecnología entretenimiento"
+    },
+    "09-19": {
+      "fact": "El primer sistema de traducción de lenguaje de señas fue creado en 2017.",
+      "source": "Tecnología inclusiva"
+    },
+    "09-20": {
+      "fact": "El primer Día Internacional del Deporte Universitario con tecnología fue en 2016.",
+      "source": "Tecnología deportiva"
+    },
+    "09-21": {
+      "fact": "El primer vuelo del avión de pasajeros Concorde comercial fue en 1976.",
+      "source": "Tecnología aeronáutica"
+    },
+    "09-22": {
+      "fact": "El primer Día Mundial sin Automóvil con apps de transporte fue en 2000.",
+      "source": "Tecnología transporte"
+    },
+    "09-23": {
+      "fact": "El primer equinoccio de otoño calculado por IA fue en 2018.",
+      "source": "Ciencia computacional"
+    },
+    "09-24": {
+      "fact": "El primer programa de detección de noticias falsas fue creado en 2016.",
+      "source": "Tecnología mediática"
+    },
+    "09-25": {
+      "fact": "El primer Día Mundial de los Ríos con tecnología de monitoreo fue en 2005.",
+      "source": "Tecnología ambiental"
+    },
+    "09-26": {
+      "fact": "El primer sistema de reconocimiento de voz para asistentes virtuales fue lanzado en 2011.",
+      "source": "Historia asistentes IA"
+    },
+    "09-27": {
+      "fact": "El primer Día Mundial del Turismo con apps de viaje fue en 1980.",
+      "source": "Tecnología turismo"
+    },
+    "09-28": {
+      "fact": "El primer vuelo del avión de pasajeros Boeing 747-8 fue en 2010.",
+      "source": "Tecnología aeronáutica"
+    },
+    "09-29": {
+      "fact": "El primer programa de ciberseguridad para infraestructuras críticas fue creado en 2003.",
+      "source": "Seguridad informática"
+    },
+    "09-30": {
+      "fact": "El primer Día Internacional de la Traducción con tecnología fue en 2005.",
+      "source": "Tecnología lingüística"
+    },
+    "10-01": {
+      "fact": "El primer octubre con ciberseguridad awareness month fue en 2004.",
+      "source": "Seguridad informática"
+    },
+    "10-02": {
+      "fact": "El primer sistema de reconocimiento de escritura a mano fue creado en 1995.",
+      "source": "Historia OCR"
+    },
+    "10-03": {
+      "fact": "El primer Día Mundial del Hábitat con tecnología urbana fue en 1986.",
+      "source": "Tecnología urbana"
+    },
+    "10-04": {
+      "fact": "El primer vuelo del avión de pasajeros Airbus A320 fue en 1987.",
+      "source": "Tecnología aeronáutica"
+    },
+    "10-05": {
+      "fact": "El primer Día Mundial de los Docentes con tecnología educativa fue en 1994.",
+      "source": "Tecnología educativa"
+    },
+    "10-06": {
+      "fact": "El primer programa de análisis de big data comercial fue lanzado en 2008.",
+      "source": "Historia data science"
+    },
+    "10-07": {
+      "fact": "El primer Día Mundial de la Sonrisa con emojis fue en 1999.",
+      "source": "Cultura digital"
+    },
+    "10-08": {
+      "fact": "El primer sistema de realidad virtual para videojuegos comercial fue lanzado en 1995.",
+      "source": "Historia videojuegos"
+    },
+    "10-09": {
+      "fact": "El primer Día Mundial del Correo con email fue en 1969.",
+      "source": "Historia correo"
+    },
+    "10-10": {
+      "fact": "El primer vuelo del avión de combate F-16 Fighting Falcon fue en 1974.",
+      "source": "Tecnología militar"
+    },
+    "10-11": {
+      "fact": "El primer Día Internacional de la Niña con tecnología educativa fue en 2012.",
+      "source": "Tecnología educativa"
+    },
+    "10-12": {
+      "fact": "El primer programa de simulación de clima espacial fue creado en 2002.",
+      "source": "Historia simulación"
+    },
+    "10-13": {
+      "fact": "El primer Día Internacional para la Reducción de los Desastres con tecnología fue en 1989.",
+      "source": "Tecnología ambiental"
+    },
+    "10-14": {
+      "fact": "El primer sistema de navegación por satélite para civiles fue lanzado en 1983.",
+      "source": "Historia GPS"
+    },
+    "10-15": {
+      "fact": "El primer Día Mundial del Lavado de Manos con tecnología sanitaria fue en 2008.",
+      "source": "Tecnología salud"
+    },
+    "10-16": {
+      "fact": "El primer vuelo del avión de pasajeros Boeing 777 fue en 1994.",
+      "source": "Tecnología aeronáutica"
+    },
+    "10-17": {
+      "fact": "El primer Día Internacional para la Erradicación de la Pobreza con tecnología fue en 1992.",
+      "source": "Tecnología social"
+    },
+    "10-18": {
+      "fact": "El primer programa de reconocimiento de cáncer por IA fue creado en 2016.",
+      "source": "Tecnología médica"
+    },
+    "10-19": {
+      "fact": "El primer Día Mundial contra el Cáncer de Mama con tecnología fue en 2006.",
+      "source": "Tecnología médica"
+    },
+    "10-20": {
+      "fact": "El primer sistema de traducción simultánea para conferencias fue creado en 2014.",
+      "source": "Historia IA"
+    },
+    "10-21": {
+      "fact": "El primer vuelo del avión de pasajeros Boeing 737 MAX fue en 2016.",
+      "source": "Tecnología aeronáutica"
+    },
+    "10-22": {
+      "fact": "El primer Día Internacional de la Tartamudez con tecnología de ayuda fue en 1998.",
+      "source": "Tecnología inclusiva"
+    },
+    "10-23": {
+      "fact": "El primer programa de detección de malware para móviles fue lanzado en 2004.",
+      "source": "Seguridad móvil"
+    },
+    "10-24": {
+      "fact": "El primer Día de las Naciones Unidas con tecnología diplomática fue en 1945.",
+      "source": "Tecnología diplomática"
+    },
+    "10-25": {
+      "fact": "El primer sistema de votación electrónica seguro fue creado en 2008.",
+      "source": "Tecnología electoral"
+    },
+    "10-26": {
+      "fact": "El primer vuelo del avión de pasajeros Airbus A350 fue en 2013.",
+      "source": "Tecnología aeronáutica"
+    },
+    "10-27": {
+      "fact": "El primer Día Mundial del Patrimonio Audiovisual con tecnología digital fue en 2005.",
+      "source": "Tecnología cultural"
+    },
+    "10-28": {
+      "fact": "El primer programa de preservación digital de archivos fue creado en 2000.",
+      "source": "Historia preservación digital"
+    },
+    "10-29": {
+      "fact": "El primer Día Internacional de Internet se celebra el 29 de octubre.",
+      "source": "Efemérides internet"
+    },
+    "10-30": {
+      "fact": "El primer sistema de reconocimiento de emociones por IA fue creado en 2015.",
+      "source": "Historia IA"
+    },
+    "10-31": {
+      "fact": "El primer Halloween con realidad aumentada fue en 2013 con apps de decoración.",
+      "source": "Tecnología entretenimiento"
+    },
+    "11-01": {
+      "fact": "El primer noviembre con movember y apps de salud masculina fue en 2003.",
+      "source": "Tecnología salud"
+    },
+    "11-02": {
+      "fact": "El primer sistema de reconocimiento de voz para automóviles fue lanzado en 2001.",
+      "source": "Tecnología automotriz"
+    },
+    "11-03": {
+      "fact": "El primer Día Mundial de la Usabilidad se celebra el 3 de noviembre.",
+      "source": "Diseño UX/UI"
+    },
+    "11-04": {
+      "fact": "El primer vuelo del avión de pasajeros Boeing 747-400 fue en 1988.",
+      "source": "Tecnología aeronáutica"
+    },
+    "11-05": {
+      "fact": "El primer Día de Guy Fawkes con memes de Anonymous fue en 2008.",
+      "source": "Cultura internet"
+    },
+    "11-06": {
+      "fact": "El primer programa de análisis de redes neuronales profundas fue creado en 2012.",
+      "source": "Historia IA"
+    },
+    "11-07": {
+      "fact": "El primer Día Internacional de la Física Médica con tecnología fue en 2013.",
+      "source": "Tecnología médica"
+    },
+    "11-08": {
+      "fact": "El primer sistema de pago con criptomonedas fue implementado en 2010.",
+      "source": "Historia blockchain"
+    },
+    "11-09": {
+      "fact": "El primer Día Internacional contra el Fascismo con tecnología social fue en 1998.",
+      "source": "Tecnología social"
+    },
+    "11-10": {
+      "fact": "El primer vuelo del avión de pasajeros Boeing 787-9 fue en 2013.",
+      "source": "Tecnología aeronáutica"
+    },
+    "11-11": {
+      "fact": "El primer Singles' Day con ventas online fue en 2009.",
+      "source": "Comercio electrónico"
+    },
+    "11-12": {
+      "fact": "El primer programa de simulación de vuelo comercial fue creado en 1996.",
+      "source": "Historia simulación"
+    },
+    "11-13": {
+      "fact": "El primer Día Mundial de la Bondad con apps de ayuda fue en 1998.",
+      "source": "Tecnología social"
+    },
+    "11-14": {
+      "fact": "El primer sistema de reconocimiento de patrones para diagnóstico médico fue creado en 2014.",
+      "source": "Tecnología médica"
+    },
+    "11-15": {
+      "fact": "El primer Día Mundial sin Alcohol con apps de control fue en 2008.",
+      "source": "Tecnología salud"
+    },
+    "11-16": {
+      "fact": "El primer vuelo del avión de pasajeros Airbus A380-800 fue en 2005.",
+      "source": "Tecnología aeronáutica"
+    },
+    "11-17": {
+      "fact": "El primer Día Internacional del Estudiante con tecnología educativa fue en 1941.",
+      "source": "Tecnología educativa"
+    },
+    "11-18": {
+      "fact": "El primer programa de traducción automática para lenguas indígenas fue creado en 2018.",
+      "source": "Tecnología lingüística"
+    },
+    "11-19": {
+      "fact": "El primer Día Mundial del Retrete con tecnología sanitaria fue en 2013.",
+      "source": "Tecnología sanitaria"
+    },
+    "11-20": {
+      "fact": "El primer sistema de reconocimiento de voz para personas con discapacidad fue creado en 2005.",
+      "source": "Tecnología inclusiva"
+    },
+    "11-21": {
+      "fact": "El primer vuelo del avión de pasajeros Boeing 747-8I fue en 2011.",
+      "source": "Tecnología aeronáutica"
+    },
+    "11-22": {
+      "fact": "El primer Día Internacional del Músico con tecnología musical fue en 1594.",
+      "source": "Tecnología musical"
+    },
+    "11-23": {
+      "fact": "El primer programa de detección de fraudes online fue creado en 1999.",
+      "source": "Seguridad informática"
+    },
+    "11-24": {
+      "fact": "El primer Día Mundial de la Evolución con tecnología paleontológica fue en 2009.",
+      "source": "Tecnología científica"
+    },
+    "11-25": {
+      "fact": "El primer sistema de navegación para ciegos fue creado en 2012.",
+      "source": "Tecnología inclusiva"
+    },
+    "11-26": {
+      "fact": "El primer vuelo del avión de pasajeros Boeing 777-9X será en 2020.",
+      "source": "Tecnología aeronáutica"
+    },
+    "11-27": {
+      "fact": "El primer Día del Maestro con tecnología educativa fue en 1943.",
+      "source": "Tecnología educativa"
+    },
+    "11-28": {
+      "fact": "El primer programa de preservación de lenguas en peligro fue creado en 2000.",
+      "source": "Tecnología lingüística"
+    },
+    "11-29": {
+      "fact": "El primer sistema de reconocimiento de voz para call centers fue implementado en 2003.",
+      "source": "Historia IA"
+    },
+    "11-30": {
+      "fact": "El primer Día Internacional de la Seguridad Informática se celebra el 30 de noviembre.",
+      "source": "Seguridad informática"
+    },
+    "12-01": {
+      "fact": "El primer diciembre con advent calendars digitales fue en 1996.",
+      "source": "Cultura digital"
+    },
+    "12-02": {
+      "fact": "El primer sistema de reconocimiento de voz para búsquedas web fue lanzado en 2008.",
+      "source": "Historia buscadores"
+    },
+    "12-03": {
+      "fact": "El primer Día Internacional de las Personas con Discapacidad con tecnología fue en 1992.",
+      "source": "Tecnología inclusiva"
+    },
+    "12-04": {
+      "fact": "El primer vuelo del avión de pasajeros Boeing 747-400ER fue en 2002.",
+      "source": "Tecnología aeronáutica"
+    },
+    "12-05": {
+      "fact": "El primer Día Internacional del Voluntariado con apps de ayuda fue en 2001.",
+      "source": "Tecnología social"
+    },
+    "12-06": {
+      "fact": "El primer programa de análisis de datos genómicos a gran escala fue creado en 2015.",
+      "source": "Bioinformática"
+    },
+    "12-07": {
+      "fact": "El primer Día Internacional de la Aviación Civil con tecnología fue en 1994.",
+      "source": "Tecnología aeronáutica"
+    },
+    "12-08": {
+      "fact": "El primer sistema de reconocimiento facial para aeropuertos fue implementado en 2015.",
+      "source": "Biometría"
+    },
+    "12-09": {
+      "fact": "El primer Día Internacional contra la Corrupción con tecnología fue en 2005.",
+      "source": "Tecnología cívica"
+    },
+    "12-10": {
+      "fact": "El primer vuelo del avión de pasajeros Boeing 787-10 fue en 2017.",
+      "source": "Tecnología aeronáutica"
+    },
+    "12-11": {
+      "fact": "El primer Día Internacional de las Montañas con tecnología de monitoreo fue en 2003.",
+      "source": "Tecnología ambiental"
+    },
+    "12-12": {
+      "fact": "El primer programa de simulación de terremotos a gran escala fue creado en 2008.",
+      "source": "Historia simulación"
+    },
+    "12-13": {
+      "fact": "El primer Día del Programador en Suecia se celebra el 13 de diciembre.",
+      "source": "Cultura programación"
+    },
+    "12-14": {
+      "fact": "El primer sistema de reconocimiento de voz para hogares inteligentes fue lanzado en 2014.",
+      "source": "Domótica"
+    },
+    "12-15": {
+      "fact": "El primer Día Internacional del Té con tecnología agrícola fue en 2005.",
+      "source": "Tecnología agrícola"
+    },
+    "12-16": {
+      "fact": "El primer vuelo del avión de pasajeros Boeing 737-900ER fue en 2006.",
+      "source": "Tecnología aeronáutica"
+    },
+    "12-17": {
+      "fact": "El primer Día Internacional para la Erradicación de la Pobreza con tecnología fue en 1992.",
+      "source": "Tecnología social"
+    },
+    "12-18": {
+      "fact": "El primer programa de traducción automática para lenguas minoritarias fue creado en 2017.",
+      "source": "Tecnología lingüística"
+    },
+    "12-19": {
+      "fact": "El primer sistema de reconocimiento de voz para videojuegos fue implementado en 2004.",
+      "source": "Historia videojuegos"
+    },
+    "12-20": {
+      "fact": "El primer Día Internacional de la Solidaridad Humana con tecnología fue en 2005.",
+      "source": "Tecnología social"
+    },
+    "12-21": {
+      "fact": "El primer solsticio de invierno calculado por supercomputadora fue en 1965.",
+      "source": "Ciencia computacional"
+    },
+    "12-22": {
+      "fact": "El primer programa de análisis de sentimientos para redes sociales fue creado en 2010.",
+      "source": "Historia data science"
+    },
+    "12-23": {
+      "fact": "El primer sistema de reconocimiento de voz para asistentes de voz fue lanzado en 2011.",
+      "source": "Historia asistentes IA"
+    },
+    "12-24": {
+      "fact": "El primer Santa tracker online fue lanzado por NORAD en 1997.",
+      "source": "Cultura internet"
+    },
+    "12-25": {
+      "fact": "El primer mensaje navideño enviado por internet fue en 1971.",
+      "source": "Historia internet"
+    },
+    "12-26": {
+      "fact": "El primer Día de San Esteban con tecnología de donaciones online fue en 1999.",
+      "source": "Tecnología social"
+    },
+    "12-27": {
+      "fact": "El primer programa de reconocimiento de voz para personas con parálisis fue creado en 2015.",
+      "source": "Tecnología médica"
+    },
+    "12-28": {
+      "fact": "El primer sistema de traducción automática para lenguas de señas fue creado en 2018.",
+      "source": "Tecnología inclusiva"
+    },
+    "12-29": {
+      "fact": "El primer vuelo del avión de pasajeros Boeing 747-100 fue en 1969.",
+      "source": "Tecnología aeronáutica"
+    },
+    "12-30": {
+      "fact": "El primer programa de preservación digital de culturas indígenas fue creado en 2003.",
+      "source": "Tecnología cultural"
+    },
     "12-31": {
       "fact": "El primer mensaje enviado a través de ARPANET, predecesor de Internet, fue 'LO' en 1969. Se intentaba enviar 'LOGIN' pero el sistema se cayó.",
       "source": "Historia de Internet"
@@ -85,6 +1505,1426 @@
     "01-10": {
       "fact": "80% of all photographs taken in human history were captured in the last 5 years.",
       "source": "Digital photography statistics"
+    },
+    "01-11": {
+      "fact": "The first computer mouse was made of wood and had only one wheel.",
+      "source": "Hardware history"
+    },
+    "01-12": {
+      "fact": "The Python programming language was named after the comedy group Monty Python, not the snake.",
+      "source": "Programming history"
+    },
+    "01-13": {
+      "fact": "The first 1GB hard drive weighed over 250 kg and cost $40,000 in 1980.",
+      "source": "Storage evolution"
+    },
+    "01-14": {
+      "fact": "The emoticon :) was first used in 1982 at Carnegie Mellon University.",
+      "source": "Digital history"
+    },
+    "01-15": {
+      "fact": "The first computer virus was called 'Creeper' and was created in 1971.",
+      "source": "Computer security"
+    },
+    "01-16": {
+      "fact": "The term 'byte' was coined by Werner Buchholz in 1956.",
+      "source": "Computer terminology"
+    },
+    "01-17": {
+      "fact": "The first computer program was written by Ada Lovelace in the 19th century.",
+      "source": "Programming history"
+    },
+    "01-18": {
+      "fact": "50% of developers use spaces instead of tabs in their code.",
+      "source": "Programming statistics"
+    },
+    "01-19": {
+      "fact": "The first smartphone was created by IBM in 1992 and was called 'Simon'.",
+      "source": "Smartphone history"
+    },
+    "01-20": {
+      "fact": "The code for the first version of Windows had only 100,000 lines (today it has over 50 million).",
+      "source": "Software evolution"
+    },
+    "01-21": {
+      "fact": "The first internet banner appeared in 1994 and had a 44% click-through rate.",
+      "source": "Digital marketing history"
+    },
+    "01-22": {
+      "fact": "95% of all internet traffic passes through submarine cables.",
+      "source": "Internet infrastructure"
+    },
+    "01-23": {
+      "fact": "The first tweet was sent by Jack Dorsey on March 21, 2006.",
+      "source": "Social media history"
+    },
+    "01-24": {
+      "fact": "The term 'cloud computing' was first used in 1997.",
+      "source": "Technology terminology"
+    },
+    "01-25": {
+      "fact": "The first web server was on a NeXT computer at CERN.",
+      "source": "Web history"
+    },
+    "01-26": {
+      "fact": "70% of professional programmers are self-taught in at least one language.",
+      "source": "Development statistics"
+    },
+    "01-27": {
+      "fact": "The first emoji was created in Japan in 1999 by Shigetaka Kurita.",
+      "source": "Digital history"
+    },
+    "01-28": {
+      "fact": "Data Protection Day has been celebrated on January 28 since 2006.",
+      "source": "Technology anniversaries"
+    },
+    "01-29": {
+      "fact": "The first graphical web browser was called Mosaic and was launched in 1993.",
+      "source": "Internet history"
+    },
+    "01-30": {
+      "fact": "On January 30, 1948, Mahatma Gandhi was assassinated, whose face inspired the design of the first emoticon :-)",
+      "source": "Historical curiosities"
+    },
+    "01-31": {
+      "fact": "The first email was sent by Ray Tomlinson in 1971.",
+      "source": "Email history"
+    },
+    "02-01": {
+      "fact": "Facebook's first 'Like' button was originally the 'Awesome' button before becoming 'Like'.",
+      "source": "Social media history"
+    },
+    "02-02": {
+      "fact": "Groundhog Day inspired the concept of 'buffer overflow' in programming.",
+      "source": "Programming curiosities"
+    },
+    "02-03": {
+      "fact": "The first program to burn a CD was created in 1988 by Sony and Philips.",
+      "source": "Storage history"
+    },
+    "02-04": {
+      "fact": "On February 4, 2004, Mark Zuckerberg launched 'Thefacebook' from his dorm room.",
+      "source": "Facebook history"
+    },
+    "02-05": {
+      "fact": "The first artificial satellite, Sputnik 1, was launched in 1957.",
+      "source": "Space history"
+    },
+    "02-06": {
+      "fact": "The term 'big data' was first used in 1997.",
+      "source": "Technology terminology"
+    },
+    "02-07": {
+      "fact": "The first 1TB hard drive was launched by Hitachi in 2007.",
+      "source": "Storage evolution"
+    },
+    "02-08": {
+      "fact": "February 8 is Safer Internet Day.",
+      "source": "Technology anniversaries"
+    },
+    "02-09": {
+      "fact": "The first podcast was created in 2004 by Adam Curry and Dave Winer.",
+      "source": "Digital history"
+    },
+    "02-10": {
+      "fact": "On February 10, 1996, the Deep Blue supercomputer defeated Kasparov for the first time.",
+      "source": "AI history"
+    },
+    "02-11": {
+      "fact": "The inventor of the World Wide Web, Tim Berners-Lee, was born on June 8, 1955.",
+      "source": "Technology biographies"
+    },
+    "02-12": {
+      "fact": "The first artificial intelligence program was created in 1951 by Christopher Strachey.",
+      "source": "AI history"
+    },
+    "02-13": {
+      "fact": "On February 13, 2005, the first video was uploaded to YouTube ('Me at the zoo').",
+      "source": "YouTube history"
+    },
+    "02-14": {
+      "fact": "The first artificial heart was controlled by software in 1982.",
+      "source": "Medical technology"
+    },
+    "02-15": {
+      "fact": "The first operating system with a graphical interface was the Xerox Alto in 1973.",
+      "source": "OS history"
+    },
+    "02-16": {
+      "fact": "On February 16, 2005, Reddit was born as 'the front page of the internet'.",
+      "source": "Social media history"
+    },
+    "02-17": {
+      "fact": "The first computer chess program was written in 1951.",
+      "source": "Computing history"
+    },
+    "02-18": {
+      "fact": "On February 18, 1930, Clyde Tombaugh discovered Pluto using photographic techniques.",
+      "source": "Science and technology"
+    },
+    "02-19": {
+      "fact": "Civilian GPS became available in 1983 after the KAL 007 flight incident.",
+      "source": "GPS history"
+    },
+    "02-20": {
+      "fact": "On February 20, 1962, John Glenn orbited Earth with onboard computers.",
+      "source": "Space history"
+    },
+    "02-21": {
+      "fact": "The first instant message was 'lo' in 1969 (they were trying to send 'login').",
+      "source": "Internet history"
+    },
+    "02-22": {
+      "fact": "February 22 is World Thinking Day, which inspired agile methods.",
+      "source": "Historical curiosities"
+    },
+    "02-23": {
+      "fact": "The first Mac virus appeared in 2006, 22 years after the first PC virus.",
+      "source": "Computer security"
+    },
+    "02-24": {
+      "fact": "The first smartphone with a touchscreen was the IBM Simon in 1994.",
+      "source": "Mobile history"
+    },
+    "02-25": {
+      "fact": "On February 25, 1991, the Linux kernel was born (version 0.01).",
+      "source": "Open source history"
+    },
+    "02-26": {
+      "fact": "The first barcode was scanned in 1974 on a pack of gum.",
+      "source": "Commercial history"
+    },
+    "02-27": {
+      "fact": "On February 27, 1975, Bill Gates founded Microsoft.",
+      "source": "Business history"
+    },
+    "02-28": {
+      "fact": "The first leap year in computing was 1972, when February 29 was added.",
+      "source": "Programming and dates"
+    },
+    "02-29": {
+      "fact": "Leap years can cause bugs in software that doesn't account for them (Y2K-like bug).",
+      "source": "Programming and dates"
+    },
+    "03-01": {
+      "fact": "The first month of March sees many technology product launches for spring.",
+      "source": "Technology cycles"
+    },
+    "03-02": {
+      "fact": "On March 2, 2004, Gmail was launched as invitation-only with 1GB of storage.",
+      "source": "Google history"
+    },
+    "03-03": {
+      "fact": "The first iPad was announced on March 3, 2010 by Steve Jobs.",
+      "source": "Apple history"
+    },
+    "03-04": {
+      "fact": "On March 4, 1977, Apple Computer Company was founded.",
+      "source": "Apple history"
+    },
+    "03-05": {
+      "fact": "The first arcade video game, 'Computer Space', was released in 1971.",
+      "source": "Video game history"
+    },
+    "03-06": {
+      "fact": "On March 6, 1983, the first commercial mobile phone, the Motorola DynaTAC, was launched.",
+      "source": "Mobile history"
+    },
+    "03-07": {
+      "fact": "The first text message between mobile phones was sent in 1992.",
+      "source": "Telecommunications history"
+    },
+    "03-08": {
+      "fact": "International Women's Day celebrates pioneers like Ada Lovelace and Grace Hopper.",
+      "source": "Women in technology"
+    },
+    "03-09": {
+      "fact": "SpaceX's first flight was on March 9, 2006 with the Falcon 1.",
+      "source": "Private space history"
+    },
+    "03-10": {
+      "fact": "On March 10, 1876, Alexander Graham Bell made the first telephone call.",
+      "source": "Telecommunications history"
+    },
+    "03-11": {
+      "fact": "The first virus to spread over the internet was the Morris Worm in 1988.",
+      "source": "Computer security"
+    },
+    "03-12": {
+      "fact": "On March 12, 1989, Tim Berners-Lee proposed the World Wide Web.",
+      "source": "Internet history"
+    },
+    "03-13": {
+      "fact": "The first web server went online on March 13, 1989.",
+      "source": "Web history"
+    },
+    "03-14": {
+      "fact": "March 14 is Pi Day (3/14), celebrated by mathematicians and programmers.",
+      "source": "Geek culture"
+    },
+    "03-15": {
+      "fact": "The first .com domain (symbolics.com) was registered on March 15, 1985.",
+      "source": "Internet history"
+    },
+    "03-16": {
+      "fact": "The first wiki was created by Ward Cunningham in 1995.",
+      "source": "Web history"
+    },
+    "03-17": {
+      "fact": "St. Patrick's Day inspired the color green in many user interfaces.",
+      "source": "UI design"
+    },
+    "03-18": {
+      "fact": "The first web browser for the general public was Mosaic in 1993.",
+      "source": "Web history"
+    },
+    "03-19": {
+      "fact": "On March 19, 2004, Gmail was launched with 1GB of free storage.",
+      "source": "Google history"
+    },
+    "03-20": {
+      "fact": "The first spring equinox calculated by computer was in 1951.",
+      "source": "Computational science"
+    },
+    "03-21": {
+      "fact": "The first tweet was sent on March 21, 2006 by Jack Dorsey.",
+      "source": "Social media history"
+    },
+    "03-22": {
+      "fact": "The first World Water Day was celebrated on March 22, 1993.",
+      "source": "Technology and environment"
+    },
+    "03-23": {
+      "fact": "The first modern unmanned aerial vehicle (drone) flight was in 1994.",
+      "source": "Drone history"
+    },
+    "03-24": {
+      "fact": "The first macro virus for Word appeared in 1995.",
+      "source": "Computer security"
+    },
+    "03-25": {
+      "fact": "The first computer-generated television advertisement was in 1994.",
+      "source": "Digital marketing history"
+    },
+    "03-26": {
+      "fact": "The first speech recognition program was created in 1952.",
+      "source": "AI history"
+    },
+    "03-27": {
+      "fact": "The first web server outside Europe was installed at Stanford in 1991.",
+      "source": "Web history"
+    },
+    "03-28": {
+      "fact": "The first 404 error message appeared in 1992.",
+      "source": "Web history"
+    },
+    "03-29": {
+      "fact": "The first spreadsheet software was VisiCalc, released in 1979.",
+      "source": "Software history"
+    },
+    "03-30": {
+      "fact": "The first computer drawing program was Sketchpad in 1963.",
+      "source": "Graphics history"
+    },
+    "03-31": {
+      "fact": "The first data backup was performed on magnetic tape in 1951.",
+      "source": "Storage history"
+    },
+    "04-01": {
+      "fact": "The first April Fool's Day on the internet was in 1984 with the fake 'Internet Pizza' announcement.",
+      "source": "Internet curiosities"
+    },
+    "04-02": {
+      "fact": "The first World Autism Awareness Day was celebrated in 2008.",
+      "source": "Inclusive technology"
+    },
+    "04-03": {
+      "fact": "The first SMS text message between different networks was in 1993.",
+      "source": "Telecommunications history"
+    },
+    "04-04": {
+      "fact": "The first TCP/IP protocol was implemented in 1983.",
+      "source": "Internet history"
+    },
+    "04-05": {
+      "fact": "The first browser with tabs was NetCaptor in 1997.",
+      "source": "Browser history"
+    },
+    "04-06": {
+      "fact": "The first video uploaded to YouTube was 'Me at the zoo' on April 23, 2005.",
+      "source": "YouTube history"
+    },
+    "04-07": {
+      "fact": "The first World Health Day with a digital theme was in 2019.",
+      "source": "Digital health"
+    },
+    "04-08": {
+      "fact": "The first facial recognition system was developed in 1964.",
+      "source": "Biometrics history"
+    },
+    "04-09": {
+      "fact": "The first text editing program was EMACS in 1976.",
+      "source": "Software history"
+    },
+    "04-10": {
+      "fact": "The first internet advertising banner appeared in 1994.",
+      "source": "Digital marketing history"
+    },
+    "04-11": {
+      "fact": "The first mobile virus appeared in 2004 for Symbian.",
+      "source": "Mobile security"
+    },
+    "04-12": {
+      "fact": "The first Cosmonautics Day has been celebrated on April 12 since 1962.",
+      "source": "Space technology"
+    },
+    "04-13": {
+      "fact": "The first data compression program was created in 1985.",
+      "source": "Software history"
+    },
+    "04-14": {
+      "fact": "The first Usenet message was sent in 1980.",
+      "source": "Internet history"
+    },
+    "04-15": {
+      "fact": "The first internet tax was proposed in 1996.",
+      "source": "Digital legislation history"
+    },
+    "04-16": {
+      "fact": "The first open source program was released in 1984.",
+      "source": "Open source history"
+    },
+    "04-17": {
+      "fact": "The first web server in Spain was installed in 1991.",
+      "source": "Internet history Spain"
+    },
+    "04-18": {
+      "fact": "The first World Amateur Radio Day is celebrated on April 18.",
+      "source": "Telecommunications history"
+    },
+    "04-19": {
+      "fact": "The first tropical cyclone monitored by satellite was in 1960.",
+      "source": "Meteorological technology"
+    },
+    "04-20": {
+      "fact": "The first data mining program was created in 1990.",
+      "source": "Data science history"
+    },
+    "04-21": {
+      "fact": "The first industrial robot was installed in 1961.",
+      "source": "Robotics history"
+    },
+    "04-22": {
+      "fact": "The first Earth Day was celebrated in 1970.",
+      "source": "Environmental technology"
+    },
+    "04-23": {
+      "fact": "The first ebook was the 'Declaration of Independence' in 1971.",
+      "source": "eBook history"
+    },
+    "04-24": {
+      "fact": "The first Predator drone flight was in 1994.",
+      "source": "Drone history"
+    },
+    "04-25": {
+      "fact": "The first transatlantic fiber optic cable was laid in 1988.",
+      "source": "Telecommunications history"
+    },
+    "04-26": {
+      "fact": "The first CIH virus appeared on April 26, 1999.",
+      "source": "Computer security"
+    },
+    "04-27": {
+      "fact": "The first mass email (spam) was sent in 1978.",
+      "source": "Email history"
+    },
+    "04-28": {
+      "fact": "The first World Day for Safety and Health at Work was in 2003.",
+      "source": "Workplace technology"
+    },
+    "04-29": {
+      "fact": "The first videoconferencing system was developed in 1964.",
+      "source": "Telecommunications history"
+    },
+    "04-30": {
+      "fact": "The first commercial firewall was launched in 1991.",
+      "source": "Computer security"
+    },
+    "05-01": {
+      "fact": "The first Labor Day with massive teleworking was in 2020.",
+      "source": "Work technology"
+    },
+    "05-02": {
+      "fact": "The first computerized accounting program was created in 1958.",
+      "source": "Business software history"
+    },
+    "05-03": {
+      "fact": "The first World Press Freedom Day with a digital focus was in 1997.",
+      "source": "Digital journalism"
+    },
+    "05-04": {
+      "fact": "The first 'May the 4th be with you' (Star Wars) was celebrated in 1979.",
+      "source": "Geek culture"
+    },
+    "05-05": {
+      "fact": "The first Cinco de Mayo celebrated on social media was in 2005.",
+      "source": "Social media"
+    },
+    "05-06": {
+      "fact": "The first Global Hawk unmanned aerial vehicle flight was in 1998.",
+      "source": "Drone history"
+    },
+    "05-07": {
+      "fact": "The first handwriting recognition program was created in 1992.",
+      "source": "OCR history"
+    },
+    "05-08": {
+      "fact": "The first World Red Cross Day with mobile apps was in 2013.",
+      "source": "Humanitarian technology"
+    },
+    "05-09": {
+      "fact": "The first computerized airline reservation system was installed in 1946.",
+      "source": "Software history"
+    },
+    "05-10": {
+      "fact": "The first message sent by telegraph was 'What hath God wrought' in 1844.",
+      "source": "Telecommunications history"
+    },
+    "05-11": {
+      "fact": "The first machine translation program was created in 1954.",
+      "source": "AI history"
+    },
+    "05-12": {
+      "fact": "The first International Nurses Day with technology was in 2000.",
+      "source": "Medical technology"
+    },
+    "05-13": {
+      "fact": "The first modern ransomware attack occurred in 1989.",
+      "source": "Computer security"
+    },
+    "05-14": {
+      "fact": "The first satellite navigation system was Transit in 1960.",
+      "source": "GPS history"
+    },
+    "05-15": {
+      "fact": "The first International Day of Families with technology was in 1994.",
+      "source": "Social technology"
+    },
+    "05-16": {
+      "fact": "The first functional laser was demonstrated in 1960.",
+      "source": "Technology history"
+    },
+    "05-17": {
+      "fact": "The first World Internet Day was celebrated on May 17, 2005.",
+      "source": "Internet anniversaries"
+    },
+    "05-18": {
+      "fact": "The first virtual museum was created in 1995.",
+      "source": "Digital history"
+    },
+    "05-19": {
+      "fact": "The first digital video editing program was created in 1987.",
+      "source": "Multimedia history"
+    },
+    "05-20": {
+      "fact": "The first commercial virtual reality system was launched in 1991.",
+      "source": "VR history"
+    },
+    "05-21": {
+      "fact": "The first World Day for Cultural Diversity with technology was in 2002.",
+      "source": "Cultural technology"
+    },
+    "05-22": {
+      "fact": "The first draft of the human genome was completed in 2000 using supercomputers.",
+      "source": "Bioinformatics"
+    },
+    "05-23": {
+      "fact": "The first electronic voting system was used in 1964.",
+      "source": "Electoral technology"
+    },
+    "05-24": {
+      "fact": "The first transatlantic telegraph cable was completed in 1858.",
+      "source": "Telecommunications history"
+    },
+    "05-25": {
+      "fact": "The first Towel Day (Tribute to Douglas Adams) was celebrated in 2001.",
+      "source": "Geek culture"
+    },
+    "05-26": {
+      "fact": "The first climate simulation program was created in 1956.",
+      "source": "Simulation history"
+    },
+    "05-27": {
+      "fact": "The first Windows virus appeared in 1992.",
+      "source": "Computer security"
+    },
+    "05-28": {
+      "fact": "The first communications satellite, Telstar, was launched in 1962.",
+      "source": "Telecommunications history"
+    },
+    "05-29": {
+      "fact": "The first space elevator was proposed in 1895 by Konstantin Tsiolkovsky.",
+      "source": "Science fiction and technology"
+    },
+    "05-30": {
+      "fact": "The first flight of the F-117 stealth aircraft was in 1981.",
+      "source": "Military technology"
+    },
+    "05-31": {
+      "fact": "The first World No Tobacco Day with health apps was in 2010.",
+      "source": "Health technology"
+    },
+    "06-01": {
+      "fact": "The first International Children's Day with programming for children was in 2000.",
+      "source": "Educational technology"
+    },
+    "06-02": {
+      "fact": "The first pattern recognition program was created in 1957.",
+      "source": "AI history"
+    },
+    "06-03": {
+      "fact": "The first flight of SpaceX's Falcon 9 rocket was in 2010.",
+      "source": "Space history"
+    },
+    "06-04": {
+      "fact": "The first instant messaging system for businesses was Lotus Sametime in 1998.",
+      "source": "Business software history"
+    },
+    "06-05": {
+      "fact": "The first World Environment Day with green technology was in 1974.",
+      "source": "Environmental technology"
+    },
+    "06-06": {
+      "fact": "The first computerized D-Day anniversary was in 1994.",
+      "source": "History and technology"
+    },
+    "06-07": {
+      "fact": "The first flight of the supersonic Concorde aircraft was in 1979.",
+      "source": "Aeronautical technology"
+    },
+    "06-08": {
+      "fact": "The first World Oceans Day with marine technology was in 2009.",
+      "source": "Marine technology"
+    },
+    "06-09": {
+      "fact": "The first relational database program was created in 1970.",
+      "source": "Database history"
+    },
+    "06-10": {
+      "fact": "The first electric public lighting system was installed in 1878.",
+      "source": "Technology history"
+    },
+    "06-11": {
+      "fact": "The first World Information Society Day was in 2006.",
+      "source": "Technology anniversaries"
+    },
+    "06-12": {
+      "fact": "The first robot that played chess was built in 1890.",
+      "source": "Robotics history"
+    },
+    "06-13": {
+      "fact": "The first compiler program was written by Grace Hopper in 1952.",
+      "source": "Programming history"
+    },
+    "06-14": {
+      "fact": "The first World Blood Donor Day with mobile apps was in 2010.",
+      "source": "Medical technology"
+    },
+    "06-15": {
+      "fact": "The first iris recognition system was patented in 1994.",
+      "source": "Biometrics"
+    },
+    "06-16": {
+      "fact": "The first digital 'Bloomsday' (Joyce's Ulysses) was celebrated in 1997.",
+      "source": "Literature and technology"
+    },
+    "06-17": {
+      "fact": "The first World Day to Combat Desertification with satellites was in 1995.",
+      "source": "Environmental technology"
+    },
+    "06-18": {
+      "fact": "The first artificial intelligence program to defeat a world champion was Deep Blue in 1997.",
+      "source": "AI history"
+    },
+    "06-19": {
+      "fact": "The first Juneteenth celebrated on social media was in 2009.",
+      "source": "Social media"
+    },
+    "06-20": {
+      "fact": "The first World Refugee Day with aid technology was in 2001.",
+      "source": "Humanitarian technology"
+    },
+    "06-21": {
+      "fact": "The first summer solstice calculated by supercomputer was in 1960.",
+      "source": "Computational science"
+    },
+    "06-22": {
+      "fact": "The first quantum cryptography program was demonstrated in 1989.",
+      "source": "Computer security"
+    },
+    "06-23": {
+      "fact": "The first Olympic Day with sports technology was in 1948.",
+      "source": "Sports technology"
+    },
+    "06-24": {
+      "fact": "The first computer weather prediction system was created in 1950.",
+      "source": "Meteorology history"
+    },
+    "06-25": {
+      "fact": "The first Day of the Seafarer with naval technology was in 2011.",
+      "source": "Naval technology"
+    },
+    "06-26": {
+      "fact": "The first anti-drug program with technology was launched in 1987.",
+      "source": "Social technology"
+    },
+    "06-27": {
+      "fact": "The first microwave system for communications was installed in 1947.",
+      "source": "Telecommunications history"
+    },
+    "06-28": {
+      "fact": "The first LGBT+ Pride Day with dating apps was in 2010.",
+      "source": "Social technology"
+    },
+    "06-29": {
+      "fact": "The first flight of the Boeing 747 passenger aircraft was in 1969.",
+      "source": "Aeronautical technology"
+    },
+    "06-30": {
+      "fact": "The first asteroid discovered by computer was in 1981.",
+      "source": "Computational astronomy"
+    },
+    "07-01": {
+      "fact": "The first half of the technology fiscal year begins on July 1.",
+      "source": "Business cycles"
+    },
+    "07-02": {
+      "fact": "The first UFO report involving technology was in 1947 (Roswell).",
+      "source": "Geek culture"
+    },
+    "07-03": {
+      "fact": "The first 3D visualization program was created in 1963.",
+      "source": "Graphics history"
+    },
+    "07-04": {
+      "fact": "The first televised U.S. Independence Day was in 1951.",
+      "source": "Media history"
+    },
+    "07-05": {
+      "fact": "The first commercial cloud storage system was launched in 2006.",
+      "source": "Cloud computing history"
+    },
+    "07-06": {
+      "fact": "The first flight of the commercial jet aircraft, the Comet, was in 1949.",
+      "source": "Aeronautical technology"
+    },
+    "07-07": {
+      "fact": "The first digital Tanabata (star festival) was celebrated in 1999.",
+      "source": "Culture and technology"
+    },
+    "07-08": {
+      "fact": "The first Linux virus appeared in 1996.",
+      "source": "Computer security"
+    },
+    "07-09": {
+      "fact": "The first commercial communications satellite was launched in 1965.",
+      "source": "Telecommunications history"
+    },
+    "07-10": {
+      "fact": "The first commercial speech recognition program was launched in 1990.",
+      "source": "AI history"
+    },
+    "07-11": {
+      "fact": "The first World Population Day with demographic technology was in 1990.",
+      "source": "Social technology"
+    },
+    "07-12": {
+      "fact": "The first digital image editing program was created in 1987.",
+      "source": "Graphics history"
+    },
+    "07-13": {
+      "fact": "The first commercial augmented reality system was launched in 1992.",
+      "source": "AR history"
+    },
+    "07-14": {
+      "fact": "The first Bastille Day celebrated globally via internet was in 1995.",
+      "source": "Internet history"
+    },
+    "07-15": {
+      "fact": "The first real-time translation program was demonstrated in 2005.",
+      "source": "AI history"
+    },
+    "07-16": {
+      "fact": "The first launch of Apollo 11 to the Moon was in 1969.",
+      "source": "Space history"
+    },
+    "07-17": {
+      "fact": "The first emoji was created on July 17, 1999.",
+      "source": "Digital history"
+    },
+    "07-18": {
+      "fact": "The first International Nelson Mandela Day with social technology was in 2010.",
+      "source": "Social technology"
+    },
+    "07-19": {
+      "fact": "The first flight of the supersonic Tupolev Tu-144 aircraft was in 1968.",
+      "source": "Aeronautical technology"
+    },
+    "07-20": {
+      "fact": "The first Moon landing was on July 20, 1969.",
+      "source": "Space history"
+    },
+    "07-21": {
+      "fact": "The first molecular simulation program was created in 1970.",
+      "source": "Simulation history"
+    },
+    "07-22": {
+      "fact": "The first World Brain Day with neuroscientific technology was in 2014.",
+      "source": "Medical technology"
+    },
+    "07-23": {
+      "fact": "The first computerized lie detection system was created in 2002.",
+      "source": "Forensic technology"
+    },
+    "07-24": {
+      "fact": "The first flight of the modern amphibious aircraft was in 1947.",
+      "source": "Aeronautical technology"
+    },
+    "07-25": {
+      "fact": "Programmer's Day is celebrated on the 256th day of the year (September 13).",
+      "source": "Programming culture"
+    },
+    "07-26": {
+      "fact": "The first gesture recognition system was created in 1993.",
+      "source": "Interface history"
+    },
+    "07-27": {
+      "fact": "The first computer bug was documented on September 9, 1947.",
+      "source": "Computer history"
+    },
+    "07-28": {
+      "fact": "The first World Hepatitis Day with health apps was in 2011.",
+      "source": "Medical technology"
+    },
+    "07-29": {
+      "fact": "The first flight of the mass consumer drone, the DJI Phantom, was in 2013.",
+      "source": "Drone history"
+    },
+    "07-30": {
+      "fact": "The first social network analysis program was created in 2005.",
+      "source": "Data science history"
+    },
+    "07-31": {
+      "fact": "The first Harry Potter published (1997) inspired many technology projects.",
+      "source": "Geek culture"
+    },
+    "08-01": {
+      "fact": "The first August without major technology launches was in 1994.",
+      "source": "Technology cycles"
+    },
+    "08-02": {
+      "fact": "The first web-based email system was Hotmail in 1996.",
+      "source": "Email history"
+    },
+    "08-03": {
+      "fact": "The first cryptocurrency mining program was created in 2009.",
+      "source": "Blockchain history"
+    },
+    "08-04": {
+      "fact": "The first International Beer Day with delivery apps was in 2012.",
+      "source": "Consumer technology"
+    },
+    "08-05": {
+      "fact": "The first surveillance unmanned aircraft flight was in 1959.",
+      "source": "Drone history"
+    },
+    "08-06": {
+      "fact": "The first Hiroshima anniversary with pacifist technology was in 1995.",
+      "source": "Technology and peace"
+    },
+    "08-07": {
+      "fact": "The first plagiarism detection program was created in 1996.",
+      "source": "Educational software history"
+    },
+    "08-08": {
+      "fact": "The first International Cat Day with pet apps was in 2002.",
+      "source": "Pet technology"
+    },
+    "08-09": {
+      "fact": "The first inertial navigation system was used in 1958.",
+      "source": "Navigation history"
+    },
+    "08-10": {
+      "fact": "The first World Lion Day with conservation technology was in 2013.",
+      "source": "Environmental technology"
+    },
+    "08-11": {
+      "fact": "The first digital audio recognition program was created in 2000.",
+      "source": "Multimedia history"
+    },
+    "08-12": {
+      "fact": "The first International Youth Day with educational technology was in 2000.",
+      "source": "Educational technology"
+    },
+    "08-13": {
+      "fact": "The first flight of the modern helicopter was in 1939.",
+      "source": "Aeronautical history"
+    },
+    "08-14": {
+      "fact": "The first World Youth Informatics Day was in 1999.",
+      "source": "Educational technology"
+    },
+    "08-15": {
+      "fact": "The first neural machine translation system was created in 2014.",
+      "source": "AI history"
+    },
+    "08-16": {
+      "fact": "The first Republic Restoration Day with civic technology was in 1996.",
+      "source": "Civic technology"
+    },
+    "08-17": {
+      "fact": "The first earthquake simulation program was created in 1985.",
+      "source": "Simulation history"
+    },
+    "08-18": {
+      "fact": "The first flight of the Airbus A380 passenger aircraft was in 2005.",
+      "source": "Aeronautical technology"
+    },
+    "08-19": {
+      "fact": "The first World Photography Day with digital cameras was in 1991.",
+      "source": "Photography history"
+    },
+    "08-20": {
+      "fact": "The first voice recognition system for phones was launched in 2008.",
+      "source": "Mobile history"
+    },
+    "08-21": {
+      "fact": "The first solar eclipse digitally photographed was in 1999.",
+      "source": "Astronomical technology"
+    },
+    "08-22": {
+      "fact": "The first World Folklore Day with cultural technology was in 1960.",
+      "source": "Cultural technology"
+    },
+    "08-23": {
+      "fact": "The first commercial genetic analysis program was launched in 2007.",
+      "source": "Bioinformatics"
+    },
+    "08-24": {
+      "fact": "The first flight of the F-22 Raptor stealth fighter was in 1997.",
+      "source": "Military technology"
+    },
+    "08-25": {
+      "fact": "The first Uruguay Independence Day with technology was in 1825.",
+      "source": "History and technology"
+    },
+    "08-26": {
+      "fact": "The first online voting system was tested in 2000.",
+      "source": "Electoral technology"
+    },
+    "08-27": {
+      "fact": "The first virtual reality program for medicine was created in 1995.",
+      "source": "Medical technology"
+    },
+    "08-28": {
+      "fact": "The first 'I Have a Dream' speech was televised in 1963.",
+      "source": "Technology and society"
+    },
+    "08-29": {
+      "fact": "The first flight of the Saturn V rocket was in 1967.",
+      "source": "Space history"
+    },
+    "08-30": {
+      "fact": "The first International Day of the Victims of Enforced Disappearances with technology was in 2011.",
+      "source": "Humanitarian technology"
+    },
+    "08-31": {
+      "fact": "The first deepfake detection program was created in 2018.",
+      "source": "Computer security"
+    },
+    "09-01": {
+      "fact": "The first September with important technology launches was in 1998.",
+      "source": "Technology cycles"
+    },
+    "09-02": {
+      "fact": "The first commercial facial recognition system was launched in 2001.",
+      "source": "Biometrics history"
+    },
+    "09-03": {
+      "fact": "The first World Hygiene Day with health technology was in 2008.",
+      "source": "Health technology"
+    },
+    "09-04": {
+      "fact": "The first flight of the Boeing 787 Dreamliner passenger aircraft was in 2009.",
+      "source": "Aeronautical technology"
+    },
+    "09-05": {
+      "fact": "The first International Day of Charity with social technology was in 2012.",
+      "source": "Social technology"
+    },
+    "09-06": {
+      "fact": "The first sentiment analysis program was created in 2002.",
+      "source": "AI history"
+    },
+    "09-07": {
+      "fact": "The first World Duchenne Awareness Day with technology was in 2014.",
+      "source": "Medical technology"
+    },
+    "09-08": {
+      "fact": "The first internet-based distance education system was created in 1996.",
+      "source": "Online education history"
+    },
+    "09-09": {
+      "fact": "The first flight of the Antonov An-225 Mriya cargo aircraft was in 1988.",
+      "source": "Aeronautical technology"
+    },
+    "09-10": {
+      "fact": "The first World Suicide Prevention Day with technology was in 2003.",
+      "source": "Mental health technology"
+    },
+    "09-11": {
+      "fact": "The first terrorist attack monitored by technology was in 2001.",
+      "source": "Security technology"
+    },
+    "09-12": {
+      "fact": "The first MPEG video compression program was created in 1993.",
+      "source": "Multimedia history"
+    },
+    "09-13": {
+      "fact": "Programmer's Day is celebrated on September 13 (256th day of the year).",
+      "source": "Programming culture"
+    },
+    "09-14": {
+      "fact": "The first commercial mobile payment system was launched in 1997.",
+      "source": "Fintech history"
+    },
+    "09-15": {
+      "fact": "The first International Day of Democracy with civic technology was in 2008.",
+      "source": "Civic technology"
+    },
+    "09-16": {
+      "fact": "The first flight of the F-35 Lightning II fighter aircraft was in 2006.",
+      "source": "Military technology"
+    },
+    "09-17": {
+      "fact": "The first real-time object recognition program was created in 2010.",
+      "source": "AI history"
+    },
+    "09-18": {
+      "fact": "The first World Play Day with entertainment technology was in 1995.",
+      "source": "Entertainment technology"
+    },
+    "09-19": {
+      "fact": "The first sign language translation system was created in 2017.",
+      "source": "Inclusive technology"
+    },
+    "09-20": {
+      "fact": "The first International University Sports Day with technology was in 2016.",
+      "source": "Sports technology"
+    },
+    "09-21": {
+      "fact": "The first commercial flight of the Concorde passenger aircraft was in 1976.",
+      "source": "Aeronautical technology"
+    },
+    "09-22": {
+      "fact": "The first World Car-Free Day with transportation apps was in 2000.",
+      "source": "Transportation technology"
+    },
+    "09-23": {
+      "fact": "The first autumn equinox calculated by AI was in 2018.",
+      "source": "Computational science"
+    },
+    "09-24": {
+      "fact": "The first fake news detection program was created in 2016.",
+      "source": "Media technology"
+    },
+    "09-25": {
+      "fact": "The first World Rivers Day with monitoring technology was in 2005.",
+      "source": "Environmental technology"
+    },
+    "09-26": {
+      "fact": "The first voice recognition system for virtual assistants was launched in 2011.",
+      "source": "AI assistants history"
+    },
+    "09-27": {
+      "fact": "The first World Tourism Day with travel apps was in 1980.",
+      "source": "Tourism technology"
+    },
+    "09-28": {
+      "fact": "The first flight of the Boeing 747-8 passenger aircraft was in 2010.",
+      "source": "Aeronautical technology"
+    },
+    "09-29": {
+      "fact": "The first cybersecurity program for critical infrastructure was created in 2003.",
+      "source": "Computer security"
+    },
+    "09-30": {
+      "fact": "The first International Translation Day with technology was in 2005.",
+      "source": "Linguistic technology"
+    },
+    "10-01": {
+      "fact": "The first October with Cybersecurity Awareness Month was in 2004.",
+      "source": "Computer security"
+    },
+    "10-02": {
+      "fact": "The first handwriting recognition system was created in 1995.",
+      "source": "OCR history"
+    },
+    "10-03": {
+      "fact": "The first World Habitat Day with urban technology was in 1986.",
+      "source": "Urban technology"
+    },
+    "10-04": {
+      "fact": "The first flight of the Airbus A320 passenger aircraft was in 1987.",
+      "source": "Aeronautical technology"
+    },
+    "10-05": {
+      "fact": "The first World Teachers' Day with educational technology was in 1994.",
+      "source": "Educational technology"
+    },
+    "10-06": {
+      "fact": "The first commercial big data analysis program was launched in 2008.",
+      "source": "Data science history"
+    },
+    "10-07": {
+      "fact": "The first World Smile Day with emojis was in 1999.",
+      "source": "Digital culture"
+    },
+    "10-08": {
+      "fact": "The first commercial virtual reality system for video games was launched in 1995.",
+      "source": "Video game history"
+    },
+    "10-09": {
+      "fact": "The first World Post Day with email was in 1969.",
+      "source": "Mail history"
+    },
+    "10-10": {
+      "fact": "The first flight of the F-16 Fighting Falcon fighter aircraft was in 1974.",
+      "source": "Military technology"
+    },
+    "10-11": {
+      "fact": "The first International Day of the Girl with educational technology was in 2012.",
+      "source": "Educational technology"
+    },
+    "10-12": {
+      "fact": "The first space weather simulation program was created in 2002.",
+      "source": "Simulation history"
+    },
+    "10-13": {
+      "fact": "The first International Day for Disaster Reduction with technology was in 1989.",
+      "source": "Environmental technology"
+    },
+    "10-14": {
+      "fact": "The first satellite navigation system for civilians was launched in 1983.",
+      "source": "GPS history"
+    },
+    "10-15": {
+      "fact": "The first Global Handwashing Day with health technology was in 2008.",
+      "source": "Health technology"
+    },
+    "10-16": {
+      "fact": "The first flight of the Boeing 777 passenger aircraft was in 1994.",
+      "source": "Aeronautical technology"
+    },
+    "10-17": {
+      "fact": "The first International Day for the Eradication of Poverty with technology was in 1992.",
+      "source": "Social technology"
+    },
+    "10-18": {
+      "fact": "The first AI cancer recognition program was created in 2016.",
+      "source": "Medical technology"
+    },
+    "10-19": {
+      "fact": "The first World Breast Cancer Day with technology was in 2006.",
+      "source": "Medical technology"
+    },
+    "10-20": {
+      "fact": "The first simultaneous translation system for conferences was created in 2014.",
+      "source": "AI history"
+    },
+    "10-21": {
+      "fact": "The first flight of the Boeing 737 MAX passenger aircraft was in 2016.",
+      "source": "Aeronautical technology"
+    },
+    "10-22": {
+      "fact": "The first International Stuttering Awareness Day with assistive technology was in 1998.",
+      "source": "Inclusive technology"
+    },
+    "10-23": {
+      "fact": "The first malware detection program for mobiles was launched in 2004.",
+      "source": "Mobile security"
+    },
+    "10-24": {
+      "fact": "The first United Nations Day with diplomatic technology was in 1945.",
+      "source": "Diplomatic technology"
+    },
+    "10-25": {
+      "fact": "The first secure electronic voting system was created in 2008.",
+      "source": "Electoral technology"
+    },
+    "10-26": {
+      "fact": "The first flight of the Airbus A350 passenger aircraft was in 2013.",
+      "source": "Aeronautical technology"
+    },
+    "10-27": {
+      "fact": "The first World Day for Audiovisual Heritage with digital technology was in 2005.",
+      "source": "Cultural technology"
+    },
+    "10-28": {
+      "fact": "The first digital archive preservation program was created in 2000.",
+      "source": "Digital preservation history"
+    },
+    "10-29": {
+      "fact": "International Internet Day is celebrated on October 29.",
+      "source": "Internet anniversaries"
+    },
+    "10-30": {
+      "fact": "The first emotion recognition system by AI was created in 2015.",
+      "source": "AI history"
+    },
+    "10-31": {
+      "fact": "The first Halloween with augmented reality was in 2013 with decoration apps.",
+      "source": "Entertainment technology"
+    },
+    "11-01": {
+      "fact": "The first November with Movember and men's health apps was in 2003.",
+      "source": "Health technology"
+    },
+    "11-02": {
+      "fact": "The first voice recognition system for cars was launched in 2001.",
+      "source": "Automotive technology"
+    },
+    "11-03": {
+      "fact": "World Usability Day is celebrated on November 3.",
+      "source": "UX/UI design"
+    },
+    "11-04": {
+      "fact": "The first flight of the Boeing 747-400 passenger aircraft was in 1988.",
+      "source": "Aeronautical technology"
+    },
+    "11-05": {
+      "fact": "The first Guy Fawkes Day with Anonymous memes was in 2008.",
+      "source": "Internet culture"
+    },
+    "11-06": {
+      "fact": "The first deep neural network analysis program was created in 2012.",
+      "source": "AI history"
+    },
+    "11-07": {
+      "fact": "The first International Medical Physics Day with technology was in 2013.",
+      "source": "Medical technology"
+    },
+    "11-08": {
+      "fact": "The first cryptocurrency payment system was implemented in 2010.",
+      "source": "Blockchain history"
+    },
+    "11-09": {
+      "fact": "The first International Day Against Fascism with social technology was in 1998.",
+      "source": "Social technology"
+    },
+    "11-10": {
+      "fact": "The first flight of the Boeing 787-9 passenger aircraft was in 2013.",
+      "source": "Aeronautical technology"
+    },
+    "11-11": {
+      "fact": "The first Singles' Day with online sales was in 2009.",
+      "source": "E-commerce"
+    },
+    "11-12": {
+      "fact": "The first commercial flight simulation program was created in 1996.",
+      "source": "Simulation history"
+    },
+    "11-13": {
+      "fact": "The first World Kindness Day with help apps was in 1998.",
+      "source": "Social technology"
+    },
+    "11-14": {
+      "fact": "The first pattern recognition system for medical diagnosis was created in 2014.",
+      "source": "Medical technology"
+    },
+    "11-15": {
+      "fact": "The first World No Alcohol Day with control apps was in 2008.",
+      "source": "Health technology"
+    },
+    "11-16": {
+      "fact": "The first flight of the Airbus A380-800 passenger aircraft was in 2005.",
+      "source": "Aeronautical technology"
+    },
+    "11-17": {
+      "fact": "The first International Students' Day with educational technology was in 1941.",
+      "source": "Educational technology"
+    },
+    "11-18": {
+      "fact": "The first machine translation program for indigenous languages was created in 2018.",
+      "source": "Linguistic technology"
+    },
+    "11-19": {
+      "fact": "The first World Toilet Day with sanitation technology was in 2013.",
+      "source": "Sanitation technology"
+    },
+    "11-20": {
+      "fact": "The first voice recognition system for people with disabilities was created in 2005.",
+      "source": "Inclusive technology"
+    },
+    "11-21": {
+      "fact": "The first flight of the Boeing 747-8I passenger aircraft was in 2011.",
+      "source": "Aeronautical technology"
+    },
+    "11-22": {
+      "fact": "The first International Musicians' Day with music technology was in 1594.",
+      "source": "Music technology"
+    },
+    "11-23": {
+      "fact": "The first online fraud detection program was created in 1999.",
+      "source": "Computer security"
+    },
+    "11-24": {
+      "fact": "The first World Evolution Day with paleontological technology was in 2009.",
+      "source": "Scientific technology"
+    },
+    "11-25": {
+      "fact": "The first navigation system for the blind was created in 2012.",
+      "source": "Inclusive technology"
+    },
+    "11-26": {
+      "fact": "The first flight of the Boeing 777-9X passenger aircraft will be in 2020.",
+      "source": "Aeronautical technology"
+    },
+    "11-27": {
+      "fact": "The first Teachers' Day with educational technology was in 1943.",
+      "source": "Educational technology"
+    },
+    "11-28": {
+      "fact": "The first endangered language preservation program was created in 2000.",
+      "source": "Linguistic technology"
+    },
+    "11-29": {
+      "fact": "The first voice recognition system for call centers was implemented in 2003.",
+      "source": "AI history"
+    },
+    "11-30": {
+      "fact": "International Computer Security Day is celebrated on November 30.",
+      "source": "Computer security"
+    },
+    "12-01": {
+      "fact": "The first December with digital advent calendars was in 1996.",
+      "source": "Digital culture"
+    },
+    "12-02": {
+      "fact": "The first voice recognition system for web searches was launched in 2008.",
+      "source": "Search engine history"
+    },
+    "12-03": {
+      "fact": "The first International Day of Persons with Disabilities with technology was in 1992.",
+      "source": "Inclusive technology"
+    },
+    "12-04": {
+      "fact": "The first flight of the Boeing 747-400ER passenger aircraft was in 2002.",
+      "source": "Aeronautical technology"
+    },
+    "12-05": {
+      "fact": "The first International Volunteer Day with help apps was in 2001.",
+      "source": "Social technology"
+    },
+    "12-06": {
+      "fact": "The first large-scale genomic data analysis program was created in 2015.",
+      "source": "Bioinformatics"
+    },
+    "12-07": {
+      "fact": "The first International Civil Aviation Day with technology was in 1994.",
+      "source": "Aeronautical technology"
+    },
+    "12-08": {
+      "fact": "The first facial recognition system for airports was implemented in 2015.",
+      "source": "Biometrics"
+    },
+    "12-09": {
+      "fact": "The first International Anti-Corruption Day with technology was in 2005.",
+      "source": "Civic technology"
+    },
+    "12-10": {
+      "fact": "The first flight of the Boeing 787-10 passenger aircraft was in 2017.",
+      "source": "Aeronautical technology"
+    },
+    "12-11": {
+      "fact": "The first International Mountain Day with monitoring technology was in 2003.",
+      "source": "Environmental technology"
+    },
+    "12-12": {
+      "fact": "The first large-scale earthquake simulation program was created in 2008.",
+      "source": "Simulation history"
+    },
+    "12-13": {
+      "fact": "Programmer's Day in Sweden is celebrated on December 13.",
+      "source": "Programming culture"
+    },
+    "12-14": {
+      "fact": "The first voice recognition system for smart homes was launched in 2014.",
+      "source": "Home automation"
+    },
+    "12-15": {
+      "fact": "The first International Tea Day with agricultural technology was in 2005.",
+      "source": "Agricultural technology"
+    },
+    "12-16": {
+      "fact": "The first flight of the Boeing 737-900ER passenger aircraft was in 2006.",
+      "source": "Aeronautical technology"
+    },
+    "12-17": {
+      "fact": "The first International Day for the Eradication of Poverty with technology was in 1992.",
+      "source": "Social technology"
+    },
+    "12-18": {
+      "fact": "The first machine translation program for minority languages was created in 2017.",
+      "source": "Linguistic technology"
+    },
+    "12-19": {
+      "fact": "The first voice recognition system for video games was implemented in 2004.",
+      "source": "Video game history"
+    },
+    "12-20": {
+      "fact": "The first International Human Solidarity Day with technology was in 2005.",
+      "source": "Social technology"
+    },
+    "12-21": {
+      "fact": "The first winter solstice calculated by supercomputer was in 1965.",
+      "source": "Computational science"
+    },
+    "12-22": {
+      "fact": "The first sentiment analysis program for social networks was created in 2010.",
+      "source": "Data science history"
+    },
+    "12-23": {
+      "fact": "The first voice recognition system for voice assistants was launched in 2011.",
+      "source": "AI assistants history"
+    },
+    "12-24": {
+      "fact": "The first online Santa tracker was launched by NORAD in 1997.",
+      "source": "Internet culture"
+    },
+    "12-25": {
+      "fact": "The first Christmas message sent over the internet was in 1971.",
+      "source": "Internet history"
+    },
+    "12-26": {
+      "fact": "The first St. Stephen's Day with online donation technology was in 1999.",
+      "source": "Social technology"
+    },
+    "12-27": {
+      "fact": "The first voice recognition program for people with paralysis was created in 2015.",
+      "source": "Medical technology"
+    },
+    "12-28": {
+      "fact": "The first machine translation system for sign languages was created in 2018.",
+      "source": "Inclusive technology"
+    },
+    "12-29": {
+      "fact": "The first flight of the Boeing 747-100 passenger aircraft was in 1969.",
+      "source": "Aeronautical technology"
+    },
+    "12-30": {
+      "fact": "The first digital preservation program for indigenous cultures was created in 2003.",
+      "source": "Cultural technology"
     },
     "12-31": {
       "fact": "The first message sent over ARPANET, the predecessor of the Internet, was 'LO' in 1969. They were trying to send 'LOGIN' but the system crashed.",
