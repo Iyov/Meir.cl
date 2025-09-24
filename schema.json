@@ -1,0 +1,32 @@
+{
+    "@context": "https://schema.org",
+    "@type": "ProfessionalService",
+    "name": "Meir Consultores de Energía",
+    "description": "Consultoría energética, desarrollo de software, creación de páginas web y marketing digital en Chile",
+    "url": "https://meir.cl/",
+    "telephone": "+56912345678",
+    "email": "contacto@meir.cl",
+    "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "CL",
+        "addressRegion": "Región Metropolitana",
+        "addressLocality": "Santiago"
+    },
+    "areaServed": "Chile",
+    "serviceType": "Consultoría energética, Desarrollo de software, Marketing digital",
+    "founder": {
+        "@type": "Person",
+        "name": "Francisco Barrientos",
+        "jobTitle": "Ingeniero de Software y Datos",
+        "url": "https://franciscobarrientos.cl/",
+        "sameAs": [
+            "https://www.linkedin.com/in/francisco-barrientos-c/",
+            "https://github.com/Iyov/"
+        ]
+    },
+    "sameAs": [
+        "https://www.linkedin.com/in/francisco-barrientos-c/",
+        "https://github.com/Iyov/",
+        "https://franciscobarrientos.cl/"
+    ]
+}
