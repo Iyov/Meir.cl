@@ -1,39 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://meir.cl/</loc>
-    <lastmod>2025-09-23</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2026-02-02</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://meir.cl/img/Meir_Logo.png</image:loc>
+      <image:title>Meir Consultores de Energía - Logo</image:title>
+      <image:caption>Logo oficial de Meir Consultores de Energía, empresa especializada en consultoría energética y desarrollo tecnológico en Chile</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://meir.cl/img/Meir_Logo_SF.png</image:loc>
+      <image:title>Meir Consultores - Logo Sin Fondo</image:title>
+      <image:caption>Logo de Meir Consultores de Energía sin fondo para uso en diferentes contextos</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://meir.cl/#about</loc>
-    <lastmod>2025-09-23</lastmod>
+    <lastmod>2026-02-02</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://meir.cl/#testimonials</loc>
-    <lastmod>2025-09-23</lastmod>
+    <lastmod>2026-02-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://meir.cl/#geek</loc>
-    <lastmod>2025-09-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <lastmod>2026-02-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://meir.cl/#faq</loc>
-    <lastmod>2025-09-23</lastmod>
+    <lastmod>2026-02-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://meir.cl/#contact</loc>
-    <lastmod>2025-09-23</lastmod>
+    <lastmod>2026-02-02</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
 </urlset>

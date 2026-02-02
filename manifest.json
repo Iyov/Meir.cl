@@ -1,0 +1,30 @@
+{
+    "name": "Meir Consultores de Energía",
+    "short_name": "Meir Consultores",
+    "description": "Consultoría energética, desarrollo de software, creación de páginas web y marketing digital en Chile",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#1a1a1a",
+    "theme_color": "#1a1a1a",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "img/favicon.png",
+            "sizes": "32x32",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "img/Meir_Logo.png",
+            "sizes": "400x400",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": ["business", "productivity", "utilities"],
+    "lang": "es-CL",
+    "dir": "ltr",
+    "scope": "/",
+    "related_applications": [],
+    "prefer_related_applications": false
+}

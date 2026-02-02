@@ -1,0 +1,172 @@
+{
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "@id": "https://meir.cl/#localbusiness",
+    "name": "Meir Consultores de Energía",
+    "alternateName": "Meir Energy Consultants",
+    "description": "Empresa especializada en consultoría energética, desarrollo de software, creación de páginas web y marketing digital en Santiago, Chile",
+    "url": "https://meir.cl/",
+    "logo": "https://meir.cl/img/Meir_Logo.png",
+    "image": [
+        "https://meir.cl/img/Meir_Logo.png",
+        "https://meir.cl/img/Meir_Logo_SF.png"
+    ],
+    "telephone": "+56987629765",
+    "email": "francisco.barrientos@meir.cl",
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Santiago",
+        "addressLocality": "Santiago",
+        "addressRegion": "Región Metropolitana",
+        "postalCode": "8320000",
+        "addressCountry": "CL"
+    },
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": -33.4489,
+        "longitude": -70.6693
+    },
+    "openingHoursSpecification": [
+        {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+                "Monday",
+                "Tuesday", 
+                "Wednesday",
+                "Thursday",
+                "Friday"
+            ],
+            "opens": "09:00",
+            "closes": "18:00"
+        }
+    ],
+    "areaServed": [
+        {
+            "@type": "City",
+            "name": "Santiago",
+            "containedInPlace": {
+                "@type": "AdministrativeArea",
+                "name": "Región Metropolitana"
+            }
+        },
+        {
+            "@type": "City",
+            "name": "Valparaíso"
+        },
+        {
+            "@type": "City",
+            "name": "Concepción"
+        },
+        {
+            "@type": "City",
+            "name": "Antofagasta"
+        },
+        {
+            "@type": "Country",
+            "name": "Chile"
+        }
+    ],
+    "serviceArea": {
+        "@type": "Country",
+        "name": "Chile"
+    },
+    "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Servicios de Consultoría y Desarrollo",
+        "itemListElement": [
+            {
+                "@type": "Offer",
+                "itemOffered": {
+                    "@type": "Service",
+                    "name": "Consultoría Energética",
+                    "description": "Optimización de consumo energético, auditorías energéticas y reducción de costos operativos para empresas",
+                    "serviceType": "Consultoría Energética"
+                },
+                "areaServed": "Chile"
+            },
+            {
+                "@type": "Offer",
+                "itemOffered": {
+                    "@type": "Service",
+                    "name": "Desarrollo de Software",
+                    "description": "Desarrollo de software a medida, aplicaciones web y sistemas para optimizar procesos empresariales",
+                    "serviceType": "Desarrollo de Software"
+                },
+                "areaServed": "Chile"
+            },
+            {
+                "@type": "Offer",
+                "itemOffered": {
+                    "@type": "Service",
+                    "name": "Desarrollo Web y SEO",
+                    "description": "Creación de páginas web profesionales, optimizadas para SEO y posicionamiento en buscadores",
+                    "serviceType": "Desarrollo Web"
+                },
+                "areaServed": "Chile"
+            },
+            {
+                "@type": "Offer",
+                "itemOffered": {
+                    "@type": "Service",
+                    "name": "Marketing Digital",
+                    "description": "Estrategias de marketing digital, SEO, SEM y gestión de redes sociales para aumentar la visibilidad online",
+                    "serviceType": "Marketing Digital"
+                },
+                "areaServed": "Chile"
+            }
+        ]
+    },
+    "founder": {
+        "@type": "Person",
+        "name": "Francisco Barrientos",
+        "jobTitle": "Ingeniero de Software y Datos",
+        "url": "https://franciscobarrientos.cl/",
+        "email": "francisco.barrientos@meir.cl",
+        "telephone": "+56987629765",
+        "sameAs": [
+            "https://www.linkedin.com/in/francisco-barrientos-c/",
+            "https://github.com/Iyov/",
+            "https://franciscobarrientos.cl/"
+        ]
+    },
+    "sameAs": [
+        "https://www.linkedin.com/in/francisco-barrientos-c/",
+        "https://github.com/Iyov/",
+        "https://franciscobarrientos.cl/"
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "15",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "María González"
+            },
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5",
+                "bestRating": "5"
+            },
+            "reviewBody": "Meir Consultores transformó completamente nuestra estrategia energética. Gracias a su asesoramiento, logramos reducir nuestros costos operativos en un 25%. ¡Altamente recomendados!"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Carlos Rodríguez"
+            },
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5",
+                "bestRating": "5"
+            },
+            "reviewBody": "El desarrollo de software que realizaron para nuestra empresa ha optimizado nuestros procesos internos de manera significativa. Francisco y su equipo son profesionales excepcionales."
+        }
+    ]
+}

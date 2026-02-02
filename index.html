@@ -5,8 +5,36 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Meir Consultores de Energía | Consultoría Energética, Desarrollo Web y Marketing Digital</title>
     <meta name="description" content="Meir Consultores de Energía ofrece servicios de consultoría energética, desarrollo de software, creación de páginas web y marketing digital en Chile." />
-    <meta name="keywords" content="consultoría energética, desarrollo software, páginas web, marketing digital, Chile, Francisco Barrientos" />
+    <meta name="keywords" content="consultoría energética, desarrollo software, páginas web, marketing digital, Chile, Francisco Barrientos, SEO, optimización energética, desarrollo web Chile, consultoría tecnológica Santiago, eficiencia energética, software a medida" />
     <meta name="author" content="Francisco Barrientos" />
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <meta name="googlebot" content="index, follow" />
+    <meta name="bingbot" content="index, follow" />
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://meir.cl/" />
+    
+    <!-- Geo tags -->
+    <meta name="geo.region" content="CL-RM" />
+    <meta name="geo.placename" content="Santiago, Chile" />
+    <meta name="geo.position" content="-33.4489;-70.6693" />
+    <meta name="ICBM" content="-33.4489, -70.6693" />
+    
+    <!-- Additional SEO meta tags -->
+    <meta name="theme-color" content="#1a1a1a" />
+    <meta name="msapplication-TileColor" content="#1a1a1a" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    
+    <!-- Business information -->
+    <meta name="business:contact_data:street_address" content="Santiago" />
+    <meta name="business:contact_data:locality" content="Santiago" />
+    <meta name="business:contact_data:region" content="Región Metropolitana" />
+    <meta name="business:contact_data:postal_code" content="8320000" />
+    <meta name="business:contact_data:country_name" content="Chile" />
+    <meta name="business:contact_data:email" content="francisco.barrientos@meir.cl" />
+    <meta name="business:contact_data:phone_number" content="+56987629765" />
+    <meta name="business:contact_data:website" content="https://meir.cl/" />
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
@@ -25,9 +53,18 @@
     <!-- Preload de fuentes para mejorar rendimiento -->
     <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" as="style" />
     
+    <!-- DNS prefetch para mejorar velocidad -->
+    <link rel="dns-prefetch" href="//fonts.googleapis.com" />
+    <link rel="dns-prefetch" href="//fonts.gstatic.com" />
+    
+    <!-- Preconnect para recursos críticos -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    
     <!-- Estilos -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" />
     <link rel="icon" href="img/favicon.png" type="image/x-icon" />
+    <link rel="manifest" href="manifest.json" />
     <link rel="stylesheet" href="css/font-awesome_6.4.0_all.min.css" type="text/css" />
     <link rel="stylesheet" href="css/index.css" type="text/css" />
 
@@ -35,36 +72,196 @@
     <script type="application/ld+json">
 {
     "@context": "https://schema.org",
-    "@type": "ProfessionalService",
-    "name": "Meir Consultores de Energía",
-    "description": "Consultoría energética, desarrollo de software, creación de páginas web y marketing digital en Chile",
-    "url": "https://meir.cl/",
-    "logo": "https://meir.cl/img/Meir_Logo.png",
-    "image": "https://meir.cl/img/Meir_Logo.png",
-    "telephone": "+56912345678",
-    "email": "contacto@meir.cl",
-    "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "CL",
-        "addressRegion": "Región Metropolitana",
-        "addressLocality": "Santiago"
-    },
-    "areaServed": "Chile",
-    "serviceType": "Consultoría energética, Desarrollo de software, Marketing digital",
-    "founder": {
-        "@type": "Person",
-        "name": "Francisco Barrientos",
-        "jobTitle": "Ingeniero de Software y Datos",
-        "url": "https://franciscobarrientos.cl/",
-        "sameAs": [
-            "https://www.linkedin.com/in/francisco-barrientos-c/",
-            "https://github.com/Iyov/"
-        ]
-    },
-    "sameAs": [
-        "https://www.linkedin.com/in/francisco-barrientos-c/",
-        "https://github.com/Iyov/",
-        "https://franciscobarrientos.cl/"
+    "@graph": [
+        {
+            "@type": "ProfessionalService",
+            "@id": "https://meir.cl/#organization",
+            "name": "Meir Consultores de Energía",
+            "alternateName": "Meir Energy Consultants",
+            "description": "Consultoría energética, desarrollo de software, creación de páginas web y marketing digital en Chile",
+            "url": "https://meir.cl/",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://meir.cl/img/Meir_Logo.png",
+                "width": 400,
+                "height": 400
+            },
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://meir.cl/img/Meir_Logo.png",
+                "width": 400,
+                "height": 400
+            },
+            "telephone": "+56987629765",
+            "email": "francisco.barrientos@meir.cl",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "CL",
+                "addressRegion": "Región Metropolitana",
+                "addressLocality": "Santiago",
+                "postalCode": "8320000"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": -33.4489,
+                "longitude": -70.6693
+            },
+            "areaServed": [
+                {
+                    "@type": "Country",
+                    "name": "Chile"
+                },
+                {
+                    "@type": "City",
+                    "name": "Santiago"
+                },
+                {
+                    "@type": "City", 
+                    "name": "Valparaíso"
+                },
+                {
+                    "@type": "City",
+                    "name": "Concepción"
+                },
+                {
+                    "@type": "City",
+                    "name": "Antofagasta"
+                }
+            ],
+            "serviceType": [
+                "Consultoría energética",
+                "Desarrollo de software",
+                "Creación de páginas web",
+                "Marketing digital",
+                "Optimización energética",
+                "Desarrollo web",
+                "SEO",
+                "Consultoría tecnológica"
+            ],
+            "hasOfferCatalog": {
+                "@type": "OfferCatalog",
+                "name": "Servicios de Meir Consultores",
+                "itemListElement": [
+                    {
+                        "@type": "Offer",
+                        "itemOffered": {
+                            "@type": "Service",
+                            "name": "Consultoría Energética",
+                            "description": "Optimización de consumo energético y reducción de costos operativos"
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "itemOffered": {
+                            "@type": "Service",
+                            "name": "Desarrollo de Software",
+                            "description": "Desarrollo de software a medida para optimizar procesos empresariales"
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "itemOffered": {
+                            "@type": "Service",
+                            "name": "Desarrollo Web",
+                            "description": "Creación de páginas web profesionales y optimizadas para SEO"
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "itemOffered": {
+                            "@type": "Service",
+                            "name": "Marketing Digital",
+                            "description": "Estrategias de marketing digital para aumentar la visibilidad online"
+                        }
+                    }
+                ]
+            },
+            "founder": {
+                "@type": "Person",
+                "@id": "https://meir.cl/#founder",
+                "name": "Francisco Barrientos",
+                "jobTitle": "Ingeniero de Software y Datos",
+                "url": "https://franciscobarrientos.cl/",
+                "email": "francisco.barrientos@meir.cl",
+                "telephone": "+56987629765",
+                "sameAs": [
+                    "https://www.linkedin.com/in/francisco-barrientos-c/",
+                    "https://github.com/Iyov/",
+                    "https://franciscobarrientos.cl/"
+                ],
+                "worksFor": {
+                    "@id": "https://meir.cl/#organization"
+                }
+            },
+            "sameAs": [
+                "https://www.linkedin.com/in/francisco-barrientos-c/",
+                "https://github.com/Iyov/",
+                "https://franciscobarrientos.cl/"
+            ],
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.9",
+                "reviewCount": "15",
+                "bestRating": "5",
+                "worstRating": "1"
+            }
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://meir.cl/#website",
+            "url": "https://meir.cl/",
+            "name": "Meir Consultores de Energía",
+            "description": "Consultoría energética, desarrollo de software y marketing digital en Chile",
+            "publisher": {
+                "@id": "https://meir.cl/#organization"
+            },
+            "inLanguage": "es-CL",
+            "potentialAction": [
+                {
+                    "@type": "SearchAction",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "urlTemplate": "https://meir.cl/?s={search_term_string}"
+                    },
+                    "query-input": "required name=search_term_string"
+                }
+            ]
+        },
+        {
+            "@type": "WebPage",
+            "@id": "https://meir.cl/#webpage",
+            "url": "https://meir.cl/",
+            "name": "Meir Consultores de Energía | Consultoría Energética, Desarrollo Web y Marketing Digital",
+            "isPartOf": {
+                "@id": "https://meir.cl/#website"
+            },
+            "about": {
+                "@id": "https://meir.cl/#organization"
+            },
+            "description": "Meir Consultores de Energía ofrece servicios de consultoría energética, desarrollo de software, creación de páginas web y marketing digital en Chile.",
+            "breadcrumb": {
+                "@id": "https://meir.cl/#breadcrumb"
+            },
+            "inLanguage": "es-CL",
+            "potentialAction": [
+                {
+                    "@type": "ReadAction",
+                    "target": ["https://meir.cl/"]
+                }
+            ]
+        },
+        {
+            "@type": "BreadcrumbList",
+            "@id": "https://meir.cl/#breadcrumb",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Inicio",
+                    "item": "https://meir.cl/"
+                }
+            ]
+        }
     ]
 }
     </script>
@@ -138,7 +335,7 @@
             <div class="hero-content">
                 <h1 class="hero-title" data-es="Meir Consultores de Energía y Desarrollo Tecnológico" data-en="Meir Energy and Technological Development Consultants">Meir Consultores de Energía y Desarrollo Tecnológico</h1>
                 <h2 class="hero-subtitle" data-es="Soluciones innovadoras para tu empresa" data-en="Innovative solutions for your business">Soluciones innovadoras para tu empresa</h2>
-                <p class="hero-description" data-es="En Meir Consultores de Energía ofrecemos servicios especializados en consultoría energética, desarrollo de software a medida, creación de páginas web y estrategias de marketing digital para impulsar el crecimiento de tu negocio." data-en="At Meir Energy Consultants we offer specialized services in energy consulting, custom software development, website creation and digital marketing strategies to boost your business growth.">En Meir Consultores de Energía ofrecemos servicios especializados en consultoría energética, desarrollo de software a medida, creación de páginas web y estrategias de marketing digital para impulsar el crecimiento de tu negocio.</p>
+                <p class="hero-description" data-es="En Meir Consultores de Energía ofrecemos servicios especializados en consultoría energética, desarrollo de software a medida, creación de páginas web optimizadas para SEO y estrategias de marketing digital para impulsar el crecimiento de tu negocio en Chile." data-en="At Meir Energy Consultants we offer specialized services in energy consulting, custom software development, SEO-optimized website creation and digital marketing strategies to boost your business growth in Chile.">En Meir Consultores de Energía ofrecemos servicios especializados en consultoría energética, desarrollo de software a medida, creación de páginas web optimizadas para SEO y estrategias de marketing digital para impulsar el crecimiento de tu negocio en Chile.</p>
                 <a href="#contact" class="cta-button" data-es="Contáctanos" data-en="Contact Us">Contáctanos</a>
             </div>
             <div class="hero-image">
@@ -153,12 +350,13 @@
             <h2 class="section-title" data-es="Quiénes Somos" data-en="About Us">Quiénes Somos</h2>
             <div class="about-content">
                 <div class="about-text">
-                    <p data-es="Meir Consultores de Energía es una empresa especializada en ofrecer soluciones integrales en el ámbito energético y tecnológico. Nuestro equipo, liderado por Francisco Barrientos, Ingeniero de Software y Datos, combina experiencia técnica con conocimiento del sector energético para ofrecer servicios de alta calidad." data-en="Meir Energy Consultants is a company specialized in offering comprehensive solutions in the energy and technology fields. Our team, led by Francisco Barrientos, Software and Data Engineer, combines technical expertise with knowledge of the energy sector to offer high-quality services.">Meir Consultores de Energía es una empresa especializada en ofrecer soluciones integrales en el ámbito energético y tecnológico. Nuestro equipo, liderado por Francisco Barrientos, Ingeniero de Software y Datos, combina experiencia técnica con conocimiento del sector energético para ofrecer servicios de alta calidad.</p>
-                    <p data-es="Nos dedicamos a ayudar a las empresas a optimizar sus procesos energéticos, desarrollar software a medida, crear presencia digital efectiva y mejorar su estrategia de marketing digital. Nuestro enfoque se basa en la innovación, la eficiencia y la sostenibilidad." data-en="We are dedicated to helping companies optimize their energy processes, develop custom software, create effective digital presence and improve their digital marketing strategy. Our approach is based on innovation, efficiency and sustainability.">Nos dedicamos a ayudar a las empresas a optimizar sus procesos energéticos, desarrollar software a medida, crear presencia digital efectiva y mejorar su estrategia de marketing digital. Nuestro enfoque se basa en la innovación, la eficiencia y la sostenibilidad.</p>
-                    <p data-es="Con sede en Chile, trabajamos con clientes de diversos sectores, brindando asesoramiento personalizado y soluciones adaptadas a sus necesidades específicas. Nuestro compromiso es contribuir al éxito de nuestros clientes mediante la implementación de tecnologías avanzadas y prácticas energéticas eficientes." data-en="Based in Chile, we work with clients from various sectors, providing personalized advice and solutions tailored to their specific needs. Our commitment is to contribute to the success of our clients through the implementation of advanced technologies and efficient energy practices.">Con sede en Chile, trabajamos con clientes de diversos sectores, brindando asesoramiento personalizado y soluciones adaptadas a sus necesidades específicas. Nuestro compromiso es contribuir al éxito de nuestros clientes mediante la implementación de tecnologías avanzadas y prácticas energéticas eficientes.</p>
+                    <h3 data-es="Expertos en Consultoría Energética y Desarrollo Tecnológico" data-en="Experts in Energy Consulting and Technological Development">Expertos en Consultoría Energética y Desarrollo Tecnológico</h3>
+                    <p data-es="Meir Consultores de Energía es una empresa especializada en ofrecer soluciones integrales en el ámbito energético y tecnológico. Nuestro equipo, liderado por Francisco Barrientos, Ingeniero de Software y Datos, combina experiencia técnica con conocimiento del sector energético para ofrecer servicios de alta calidad en Chile." data-en="Meir Energy Consultants is a company specialized in offering comprehensive solutions in the energy and technology fields. Our team, led by Francisco Barrientos, Software and Data Engineer, combines technical expertise with knowledge of the energy sector to offer high-quality services in Chile.">Meir Consultores de Energía es una empresa especializada en ofrecer soluciones integrales en el ámbito energético y tecnológico. Nuestro equipo, liderado por Francisco Barrientos, Ingeniero de Software y Datos, combina experiencia técnica con conocimiento del sector energético para ofrecer servicios de alta calidad en Chile.</p>
+                    <p data-es="Nos dedicamos a ayudar a las empresas chilenas a optimizar sus procesos energéticos, desarrollar software a medida, crear presencia digital efectiva con páginas web optimizadas para SEO y mejorar su estrategia de marketing digital. Nuestro enfoque se basa en la innovación, la eficiencia y la sostenibilidad energética." data-en="We are dedicated to helping Chilean companies optimize their energy processes, develop custom software, create effective digital presence with SEO-optimized websites and improve their digital marketing strategy. Our approach is based on innovation, efficiency and energy sustainability.">Nos dedicamos a ayudar a las empresas chilenas a optimizar sus procesos energéticos, desarrollar software a medida, crear presencia digital efectiva con páginas web optimizadas para SEO y mejorar su estrategia de marketing digital. Nuestro enfoque se basa en la innovación, la eficiencia y la sostenibilidad energética.</p>
+                    <p data-es="Con sede en Santiago, Chile, trabajamos con clientes de diversos sectores industriales, brindando asesoramiento personalizado y soluciones adaptadas a sus necesidades específicas. Nuestro compromiso es contribuir al éxito de nuestros clientes mediante la implementación de tecnologías avanzadas y prácticas energéticas eficientes." data-en="Based in Santiago, Chile, we work with clients from various industrial sectors, providing personalized advice and solutions tailored to their specific needs. Our commitment is to contribute to the success of our clients through the implementation of advanced technologies and efficient energy practices.">Con sede en Santiago, Chile, trabajamos con clientes de diversos sectores industriales, brindando asesoramiento personalizado y soluciones adaptadas a sus necesidades específicas. Nuestro compromiso es contribuir al éxito de nuestros clientes mediante la implementación de tecnologías avanzadas y prácticas energéticas eficientes.</p>
                 </div>
                 <div class="about-image">
-                    <img src="img/Meir_Logo_SF.png" alt="Meir Consultores Logo" loading="lazy" /><!--<i class="fas fa-users"></i>-->
+                    <img src="img/Meir_Logo_SF.png" alt="Meir Consultores de Energía - Logo oficial de la empresa especializada en consultoría energética, desarrollo de software y marketing digital en Chile" loading="lazy" width="300" height="300" />
                 </div>
             </div>
         </div>
@@ -357,10 +555,12 @@
             <div class="footer-section">
                 <h3 data-es="Servicios" data-en="Services">Servicios</h3>
                 <ul class="footer-links">
-                    <li><a href="#" data-es="Consultoría Energética" data-en="Energy Consulting">Consultoría Energética</a></li>
-                    <li><a href="#" data-es="Desarrollo de Software" data-en="Software Development">Desarrollo de Software</a></li>
-                    <li><a href="#" data-es="Creación de Páginas Web" data-en="Website Creation">Creación de Páginas Web</a></li>
-                    <li><a href="#" data-es="Marketing Digital" data-en="Digital Marketing">Marketing Digital</a></li>
+                    <li><a href="#about" data-es="Consultoría Energética" data-en="Energy Consulting">Consultoría Energética</a></li>
+                    <li><a href="#about" data-es="Desarrollo de Software" data-en="Software Development">Desarrollo de Software</a></li>
+                    <li><a href="#about" data-es="Creación de Páginas Web" data-en="Website Creation">Creación de Páginas Web</a></li>
+                    <li><a href="#about" data-es="Marketing Digital" data-en="Digital Marketing">Marketing Digital</a></li>
+                    <li><a href="#about" data-es="SEO y Posicionamiento Web" data-en="SEO and Web Positioning">SEO y Posicionamiento Web</a></li>
+                    <li><a href="#about" data-es="Optimización Energética" data-en="Energy Optimization">Optimización Energética</a></li>
                 </ul>
             </div>
         </div>

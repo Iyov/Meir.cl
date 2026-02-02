@@ -1,34 +1,138 @@
 {
     "@context": "https://schema.org",
-    "@type": "ProfessionalService",
-    "name": "Meir Consultores de Energía",
-    "description": "Consultoría energética, desarrollo de software, creación de páginas web y marketing digital en Chile",
-    "url": "https://meir.cl/",
-    "logo": "https://meir.cl/img/Meir_Logo.png",
-    "image": "https://meir.cl/img/Meir_Logo.png",
-    "telephone": "+56912345678",
-    "email": "contacto@meir.cl",
-    "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "CL",
-        "addressRegion": "Región Metropolitana",
-        "addressLocality": "Santiago"
-    },
-    "areaServed": "Chile",
-    "serviceType": "Consultoría energética, Desarrollo de software, Marketing digital",
-    "founder": {
-        "@type": "Person",
-        "name": "Francisco Barrientos",
-        "jobTitle": "Ingeniero de Software y Datos",
-        "url": "https://franciscobarrientos.cl/",
-        "sameAs": [
-            "https://www.linkedin.com/in/francisco-barrientos-c/",
-            "https://github.com/Iyov/"
-        ]
-    },
-    "sameAs": [
-        "https://www.linkedin.com/in/francisco-barrientos-c/",
-        "https://github.com/Iyov/",
-        "https://franciscobarrientos.cl/"
+    "@graph": [
+        {
+            "@type": "ProfessionalService",
+            "@id": "https://meir.cl/#organization",
+            "name": "Meir Consultores de Energía",
+            "alternateName": "Meir Energy Consultants",
+            "description": "Consultoría energética, desarrollo de software, creación de páginas web y marketing digital en Chile",
+            "url": "https://meir.cl/",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://meir.cl/img/Meir_Logo.png",
+                "width": 400,
+                "height": 400
+            },
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://meir.cl/img/Meir_Logo.png",
+                "width": 400,
+                "height": 400
+            },
+            "telephone": "+56987629765",
+            "email": "francisco.barrientos@meir.cl",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "CL",
+                "addressRegion": "Región Metropolitana",
+                "addressLocality": "Santiago",
+                "postalCode": "8320000"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": -33.4489,
+                "longitude": -70.6693
+            },
+            "areaServed": [
+                {
+                    "@type": "Country",
+                    "name": "Chile"
+                },
+                {
+                    "@type": "City",
+                    "name": "Santiago"
+                },
+                {
+                    "@type": "City", 
+                    "name": "Valparaíso"
+                },
+                {
+                    "@type": "City",
+                    "name": "Concepción"
+                },
+                {
+                    "@type": "City",
+                    "name": "Antofagasta"
+                }
+            ],
+            "serviceType": [
+                "Consultoría energética",
+                "Desarrollo de software",
+                "Creación de páginas web",
+                "Marketing digital",
+                "Optimización energética",
+                "Desarrollo web",
+                "SEO",
+                "Consultoría tecnológica"
+            ],
+            "hasOfferCatalog": {
+                "@type": "OfferCatalog",
+                "name": "Servicios de Meir Consultores",
+                "itemListElement": [
+                    {
+                        "@type": "Offer",
+                        "itemOffered": {
+                            "@type": "Service",
+                            "name": "Consultoría Energética",
+                            "description": "Optimización de consumo energético y reducción de costos operativos"
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "itemOffered": {
+                            "@type": "Service",
+                            "name": "Desarrollo de Software",
+                            "description": "Desarrollo de software a medida para optimizar procesos empresariales"
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "itemOffered": {
+                            "@type": "Service",
+                            "name": "Desarrollo Web",
+                            "description": "Creación de páginas web profesionales y optimizadas para SEO"
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "itemOffered": {
+                            "@type": "Service",
+                            "name": "Marketing Digital",
+                            "description": "Estrategias de marketing digital para aumentar la visibilidad online"
+                        }
+                    }
+                ]
+            },
+            "founder": {
+                "@type": "Person",
+                "@id": "https://meir.cl/#founder",
+                "name": "Francisco Barrientos",
+                "jobTitle": "Ingeniero de Software y Datos",
+                "url": "https://franciscobarrientos.cl/",
+                "email": "francisco.barrientos@meir.cl",
+                "telephone": "+56987629765",
+                "sameAs": [
+                    "https://www.linkedin.com/in/francisco-barrientos-c/",
+                    "https://github.com/Iyov/",
+                    "https://franciscobarrientos.cl/"
+                ],
+                "worksFor": {
+                    "@id": "https://meir.cl/#organization"
+                }
+            },
+            "sameAs": [
+                "https://www.linkedin.com/in/francisco-barrientos-c/",
+                "https://github.com/Iyov/",
+                "https://franciscobarrientos.cl/"
+            ],
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.9",
+                "reviewCount": "15",
+                "bestRating": "5",
+                "worstRating": "1"
+            }
+        }
     ]
 }
