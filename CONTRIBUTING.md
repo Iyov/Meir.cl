@@ -75,9 +75,9 @@ Las sugerencias de mejoras también se rastrean como issues de GitHub.
 ### 1. Fork y Clone
 
 ```bash
-# Fork el repositorio en GitHub
+# Fork el repositorio en GitHub desde https://github.com/Iyov/Meir.cl
 # Luego clona tu fork
-git clone https://github.com/tu-usuario/meir.cl.git
+git clone https://github.com/tu-usuario/Meir.cl.git
 cd meir.cl
 ```
 

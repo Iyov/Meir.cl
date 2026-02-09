@@ -12,10 +12,12 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 - Meta tag deprecado `apple-mobile-web-app-capable` actualizado
 - Agregado meta tag estándar `mobile-web-app-capable` para PWAs modernas
 - Mantenida compatibilidad con iOS mediante ambos meta tags
+- Enlaces de GitHub corregidos de `yourusername/meir.cl` a `Iyov/Meir.cl`
 
 ### Cambiado
 
 - Versión de assets actualizada a `v=2026-02-08_2`
+- URLs de repositorio actualizadas en README.md, CHANGELOG.md y CONTRIBUTING.md
 
 ## [1.0.0] - 2026-02-08
 
@@ -134,7 +136,7 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
 ---
 
-[1.0.1]: https://github.com/yourusername/meir.cl/releases/tag/v1.0.1
-[1.0.0]: https://github.com/yourusername/meir.cl/releases/tag/v1.0.0
-[0.1.0]: https://github.com/yourusername/meir.cl/releases/tag/v0.1.0
-[Unreleased]: https://github.com/yourusername/meir.cl/compare/v1.0.1...HEAD
+[1.0.1]: https://github.com/Iyov/Meir.cl/releases/tag/v1.0.1
+[1.0.0]: https://github.com/Iyov/Meir.cl/releases/tag/v1.0.0
+[0.1.0]: https://github.com/Iyov/Meir.cl/releases/tag/v0.1.0
+[Unreleased]: https://github.com/Iyov/Meir.cl/compare/v1.0.1...HEAD
