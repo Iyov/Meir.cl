@@ -5,6 +5,18 @@ Todos los cambios notables en este proyecto serán documentados en este archivo.
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [1.0.1] - 2026-02-08
+
+### Corregido
+
+- Meta tag deprecado `apple-mobile-web-app-capable` actualizado
+- Agregado meta tag estándar `mobile-web-app-capable` para PWAs modernas
+- Mantenida compatibilidad con iOS mediante ambos meta tags
+
+### Cambiado
+
+- Versión de assets actualizada a `v=2026-02-08_2`
+
 ## [1.0.0] - 2026-02-08
 
 ### Agregado
@@ -122,6 +134,7 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
 ---
 
+[1.0.1]: https://github.com/yourusername/meir.cl/releases/tag/v1.0.1
 [1.0.0]: https://github.com/yourusername/meir.cl/releases/tag/v1.0.0
 [0.1.0]: https://github.com/yourusername/meir.cl/releases/tag/v0.1.0
-[Unreleased]: https://github.com/yourusername/meir.cl/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/yourusername/meir.cl/compare/v1.0.1...HEAD
