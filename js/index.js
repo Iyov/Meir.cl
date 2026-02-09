@@ -210,17 +210,44 @@ document.querySelectorAll('.nav-link').forEach(link => {
 // Acordeón de preguntas frecuentes
 faqItems.forEach(item => {
     const question = item.querySelector('.faq-question');
+    const answer = item.querySelector('.faq-answer');
+    
+    // Agregar atributos ARIA para accesibilidad
+    question.setAttribute('role', 'button');
+    question.setAttribute('aria-expanded', 'false');
+    question.setAttribute('tabindex', '0');
+    
+    if (answer) {
+        const answerId = 'faq-answer-' + Math.random().toString(36).substr(2, 9);
+        answer.setAttribute('id', answerId);
+        question.setAttribute('aria-controls', answerId);
+    }
     
     question.addEventListener('click', () => {
+        const isActive = item.classList.contains('active');
+        
         // Cerrar otros items abiertos
         faqItems.forEach(otherItem => {
             if (otherItem !== item && otherItem.classList.contains('active')) {
                 otherItem.classList.remove('active');
+                const otherQuestion = otherItem.querySelector('.faq-question');
+                if (otherQuestion) {
+                    otherQuestion.setAttribute('aria-expanded', 'false');
+                }
             }
         });
         
         // Abrir/cerrar el item actual
         item.classList.toggle('active');
+        question.setAttribute('aria-expanded', !isActive);
+    });
+    
+    // Soporte para navegación por teclado
+    question.addEventListener('keypress', (e) => {
+        if (e.key === 'Enter' || e.key === ' ') {
+            e.preventDefault();
+            question.click();
+        }
     });
 });
 
